@@ -27,6 +27,16 @@
     background: #007bff;
     color: white;
 }
+.event-button > button{
+    margin-right: 12px;
+}
+.custom-button{
+    font-size: 10px;
+    border-radius: 25px;
+    background: lightgrey;
+    color: black;
+    border: none;
+}
 @media(max-width:520px) {
     .event-cart {
         display: none;

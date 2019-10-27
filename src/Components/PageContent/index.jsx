@@ -86,7 +86,7 @@ export default class PageContent extends Component {
                             <img alt={""} src=""></img>
                         </div>
                     </div>
-                    <div className="card m-1 event-cart ">
+                    <div className="card m-1 event-cart " style={{ width: `${33}rem` }}>
                         <div className="card-body">
                             <div className="d-flex ">
                                 <div>
@@ -99,9 +99,13 @@ export default class PageContent extends Component {
                                         <div className='small'>in the past 30 days</div>
                                     </div>
                                 </div>
-                                <div className="border_style1"></div>
                                 <div className="m-3">
-                                    Hello
+                                <div className="event-button">
+                                    <button class="btn btn-secondary custom-button">Alert Event</button>
+                                    <button class="btn btn-secondary custom-button">Machines</button>
+                                    <button class="btn btn-secondary custom-button">Discharge</button>
+                                    <span>Past 30 days > </span>
+                                </div>
                                 </div>
                             </div>
                         </div>
