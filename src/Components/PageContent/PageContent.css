@@ -1,0 +1,38 @@
+.event-cart {
+    width: 30rem;
+}
+
+.time-cart-title{
+    display: flex;
+    justify-content: space-between;
+}
+.time-card-width{
+    width: 26rem;;
+}
+.small-time-card{
+    display: none;
+}
+@media(max-width:520px) {
+    .event-cart {
+        display: none;
+    } 
+    .time-card-width{
+        width: 20rem;;
+    }
+    .small-time-card, .time-cart-title, .time-card-detail{
+        display: block;
+    }
+
+    .time-card-details{
+        display: none;
+    }
+    .time-card-time{
+        text-align: center;
+    }
+    .time-card-small{
+        margin-bottom: 22px;
+    }
+    .time-count{
+        color: cadetblue;
+    }
+  }
