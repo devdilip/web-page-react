@@ -96,16 +96,23 @@ export default class PageContent extends Component {
                                     <div className="card-text">
                                         <div className='small'>Alert Events</div>
                                         <div> <span className="span_sty_123wq">23</span></div>
-                                        <div className='small'>in the past 30 days</div>
+                                        <div className='small' style={{ whiteSpace: "nowrap" }}>in the past 30 days</div>
                                     </div>
                                 </div>
                                 <div className="m-3">
-                                <div className="event-button">
-                                    <button className="btn btn-secondary custom-button">Alert Event</button>
-                                    <button className="btn btn-secondary custom-button">Machines</button>
-                                    <button className="btn btn-secondary custom-button">Discharge</button>
-                                    <span>Past 30 days > </span>
-                                </div>
+                                    <div className="event-button">
+                                        <button className="btn btn-secondary custom-button">Alert Event</button>
+                                        <button className="btn btn-secondary custom-button">Machines</button>
+                                        <button className="btn btn-secondary custom-button">Discharge</button>
+                                        <span>Past 30 days > </span>
+                                    </div>
+                                    <div>
+                                        <img className='img-responsive fit-image'
+                                            style={{ width: "100%" }}
+                                            alt={"Loading img"}
+                                            src={require(`../../../src/Assets/images/small-graph-img.png`)}>
+                                        </img>
+                                    </div>
                                 </div>
                             </div>
                         </div>
