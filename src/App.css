@@ -1,8 +1,11 @@
 .body_style {
   background-color: #f5f5f5;
-  height: 100vh
+  /* height: 100vh */
 }
-
+.header-container{
+  padding: 5px 5px 5px 0;
+  box-shadow: 0 0 10px #fff;
+}
 /* .bs-example1q {
   height: 57.7px;
   background-color: #f5f5f5;
@@ -19,11 +22,11 @@
   /* margin: 1px; */
 }
 
-.card-body-style{
+.card-body-style {
   overflow-x: auto;
 }
 
-.card-style{
+.card-style {
   /* flex-grow: 1; */
   flex-shrink: 0;
   height: 180px;
@@ -38,7 +41,7 @@
 }
 
 .sidebar-container {
-  position: fixed;
+  position: absolute;
   width: 220px;
   height: 100%;
   left: 0;
@@ -57,7 +60,7 @@
 .sidebar-logo {
   padding: 10px 15px 10px 30px;
   font-size: 20px;
-  background-color: #2574A9;
+  background-color: #c9e2ff;
 }
 
 .sidebar-navigation {
@@ -86,13 +89,15 @@
   margin-right: 10px;
 }
 
-.sidebar-navigation li a:active, .sidebar-navigation li a:hover, .sidebar-navigation li a:focus {
+.sidebar-navigation li a:active,
+.sidebar-navigation li a:hover,
+.sidebar-navigation li a:focus {
   text-decoration: none;
   outline: none;
 }
 
 .sidebar-navigation li::before {
-  background-color: #2574A9;
+  background-color: #c9e2ff;
   position: absolute;
   content: '';
   height: 100%;
@@ -144,7 +149,8 @@
 .card_body12345 {
   height: 170px;
 }
-.border_style1{
+
+.border_style1 {
   border: 1px solid #f5f5f5;
 }
 
@@ -152,7 +158,15 @@
   .width_con12w3 {
     display: none;
   }
+
   .content-container1 {
     padding: 20px 0;
   }
+}
+
+.sidebar-navigation .header {
+  background-color: white;
+  font-size: 11px;
+  color: lightgrey;
+  font-weight: 600;
 }

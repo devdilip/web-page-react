@@ -8,7 +8,7 @@ class App extends Component {
   state = {
     buttonStatus: false
   };
-  
+
   toggleHandler = () => {
     console.log(this.state.buttonStatus);
     this.setState({ buttonStatus: !this.state.buttonStatus });

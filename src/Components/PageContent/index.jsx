@@ -7,7 +7,7 @@ export default class PageContent extends Component {
                 <div className="card-body">
                     <h5 className="card-title d-flex justify-content-between align-items-center">
                         <div>  <span className="span_sty_123wq">{cardDetails.header}</span>{cardDetails.isPercentage ? '%' : null}</div>
-                        {cardDetails.isIcon ? <div><img alt={"loading"} className="mr-1" src={require(`../../../src/Assets/images/twotone-settings-24px.svg`)} /></div> : null}
+                        {cardDetails.isIcon ? <div><img alt={"loading"} className="mr-1" src={require(`../../../src/Assets/images/twotone-group-24px.svg`)} /></div> : null}
                     </h5>
                     <p className="card-text">
                         <div>{cardDetails.type}</div>
@@ -36,7 +36,7 @@ export default class PageContent extends Component {
                         {card(10, { header: "52", type: "MACHINE", subType: "WORK", progressvalue: 50, isIcon: false, isPercentage: true })}
                         {card(10, { header: "16", type: "ACTIVE", subType: "OPERATORS", progressvalue: 25, isIcon: false, isPercentage: true })}
                         {card(10, { header: "4", type: "PRODUCT", subType: "DISCHARGE", progressvalue: 25, isIcon: true, isPercentage: false })}
-                        <div className="card m-1  card-style" style={{ width: `${27}rem` }}>
+                        <div className="card m-1  card-style" style={{ width: `${26}rem` }}>
                             <div className="card-body">
                                 <div className="d-flex justify-content-between">
                                     <div>
@@ -61,6 +61,7 @@ export default class PageContent extends Component {
                         </div>
                         {card(10, { header: "100", type: "HARDWARE", subType: "PROTYPING", progressvalue: 100, isIcon: false, isPercentage: true })}
                     </div>
+
                     <div className="card m-1">
                         <div className="card-body card_body1234">
                             <h5 className="card-title">
@@ -69,15 +70,27 @@ export default class PageContent extends Component {
                             <img alt={""} src=""></img>
                         </div>
                     </div>
-                    <div className="card m-1" style={{ width: `${30}rem` }}>
+                    <div className="card m-1 " style={{ width: `${30}rem` }}>
                         <div className="card-body">
-                            <h5 className="card-title">
-                                <span className="">Events</span>%
-              </h5>
-                            <p className="card-text">
-                                <div>Alert Events</div>
-                                <div>23</div>
-                            </p>
+                            <div className="d-flex ">
+                                <div>
+                                    <h5 className="card-title">
+                                        <span className="">Events</span>
+                                    </h5>
+                                    <p className="card-text">
+                                        <div className='small'>Alert Events</div>
+                                        <div> <span className="span_sty_123wq">23</span></div>
+                                        <div className='small'>in the past 30 days</div>
+                                    </p>
+                                </div>
+                                <div className="border_style1"></div>
+                                <div className="m-3">
+                                    <h5 className="card-title">
+                                        <span style={{ fontSize: "40px" }}>{`06:50:27`}</span>
+                                    </h5>
+                                    <div className="text-center">DURATION</div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

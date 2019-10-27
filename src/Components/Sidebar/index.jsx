@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import './Sidebar.css';
 
 export default class sidebar extends Component {
     render() {
@@ -6,7 +7,7 @@ export default class sidebar extends Component {
             <li>
                 <a className="st_font_size12q">
                     <img alt={"loading"} className="mr-1" src={require(`../../../src/Assets/images/${imageUrl}`)} />
-                    {sideBarName}
+                    <span className="sidebar-name">{sideBarName}</span>
                 </a>
             </li>
         );
@@ -17,16 +18,18 @@ export default class sidebar extends Component {
                 }`}
             >
                 <ul className="sidebar-navigation">
-                    <li className="header">PLATFORM</li>
-                    {sideBarLIElement("twotone-home-24px.svg", "Home")}
-                    {sideBarLIElement("twotone-dvr-24px.svg", "Machine")}
-                    {sideBarLIElement("twotone-work-24px.svg", "Clint")}
-                    {sideBarLIElement("twotone-access_alarms-24px.svg", "Planing")}
-                    <li className="header">SETTINGS</li>
+                    <li className="header header-side-bar">PLATFORM</li>
+                    {sideBarLIElement("twotone-home-24px.svg", "HOME")}
+                    {sideBarLIElement("twotone-dvr-24px.svg", "MACHINE")}
+                    {sideBarLIElement("twotone-work-24px.svg", "CLIENT")}
+                    {sideBarLIElement("twotone-access_alarms-24px.svg", "PLANNING")}
+                    <br/>
+                    <li className="header header-side-bar">SETTINGS</li>
                     {sideBarLIElement("twotone-group-24px.svg", "USERS")}
                     {sideBarLIElement("twotone-get_app-24px (1).svg", "EXPORT DATA")}
                     {sideBarLIElement("twotone-settings-24px.svg", "SETTINGS")}
-                    <li className="header">ADVANCED</li>
+                    <br/>
+                    <li className="header header-side-bar">ADVANCED</li>
                     {sideBarLIElement("twotone-memory-24px.svg", "FANCYBOX CONFIGS")}
                     {sideBarLIElement("twotone-cloud_done-24px.svg", "SPACEBUNNY STATUS")}
                     {sideBarLIElement("twotone-folder_shared-24px.svg", "SHARED FOLDERS")}
