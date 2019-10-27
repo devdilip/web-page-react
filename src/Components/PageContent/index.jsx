@@ -8,19 +8,19 @@ export default class PageContent extends Component {
     render() {
 
         const card = (width, cardDetails) => (
-            <div className="card m-1 card-style" style={{ width: `${width}rem` }}>
+            <div className={`card m-1 card-style ${cardDetails.isActive ? "active-card" : null}`} style={{ width: `${width}rem` }}>
                 <div className="card-body">
                     <h5 className="card-title d-flex justify-content-between align-items-center">
-                        <div>  <span className="span_sty_123wq">{cardDetails.header}</span>{cardDetails.isPercentage ? '%' : null}</div>
-                        {cardDetails.isIcon ? <div><img alt={"loading"} className="mr-1" src={require(`../../../src/Assets/images/twotone-group-24px.svg`)} /></div> : null}
+                        <div>  <span className={`span_sty_123wq ${cardDetails.header === "100" ? " card-header-color" : "card-headers-title"}`}>{cardDetails.header}</span>{cardDetails.isPercentage ? '%' : null}</div>
+                        {cardDetails.isIcon ? <div><img alt={"loading"} className="mr-1" style={{ height: "40px" }} src={require(`../../../src/Assets/images/twotone-group-24px.svg`)} /></div> : null}
                     </h5>
                     <div className="card-text">
                         <div>{cardDetails.type}</div>
                         <div>{cardDetails.subType}</div>
                     </div>
-                    <div className="progress p_bar123">
+                    <div className="progress  p_bar123">
                         <div
-                            className={`progress-bar w-${cardDetails.progressvalue}`}
+                            className={`progress-bar ${cardDetails.isActive ? "bg-white" : cardDetails.progressvalue == "100" ? "bg-success" : null} w-${cardDetails.progressvalue}`}
                             role="progressbar"
                             aria-valuenow={cardDetails.progressvalue}
                             aria-valuemin="0"
@@ -37,9 +37,9 @@ export default class PageContent extends Component {
                     <div className="time-cart-title">
                         <div className="time-card-details">
                             <h5 className="card-title">
-                                <span style={{ fontSize: "30px" }}>{`07:30:00`}</span>
+                                <span style={{ fontSize: "30px", fontWeight: 400 }}>{`07:30:00`}</span>
                             </h5>
-                            <div className="mt-2 mb-3">27/09/2019</div>
+                            <div className="mt-1 mb-1 time-small-header">27/09/2019</div>
                             <div className="card-text">
                                 <div>{`STARTING`}</div>
                                 <div>{`TIME`}</div>
@@ -51,8 +51,8 @@ export default class PageContent extends Component {
                             <h5 className="card-title time-card-time">
                                 <div className='small-time-card'>
                                     <div className='d-flex justify-content-between time-card-small'>
-                                        <div className='small'>{`TEMPO INIZIALE`}</div>
-                                        <div className='small'>{`07:30:00 27/09/2019`}</div>
+                                        <div className='time-small-header'>{`TEMPO INIZIALE`}</div>
+                                        <div className='time-small-header'>{`07:30:00 27/09/2019`}</div>
                                     </div>
                                 </div>
                                 <span className='time-count' style={{ fontSize: "40px" }}>{`06:57:24`}</span>
@@ -71,11 +71,11 @@ export default class PageContent extends Component {
             >
                 <div className="container-fluid">
                     <div className="d-flex card-body-style">
-                        {card(10, { header: "52", type: "MACHINE", subType: "WORK", progressvalue: 50, isIcon: false, isPercentage: true })}
-                        {card(10, { header: "16", type: "ACTIVE", subType: "OPERATORS", progressvalue: 25, isIcon: false, isPercentage: true })}
-                        {card(10, { header: "4", type: "PRODUCT", subType: "DISCHARGE", progressvalue: 25, isIcon: true, isPercentage: false })}
+                        {card(10, { header: "52", type: "MACHINE", subType: "WORK", progressvalue: 50, isIcon: false, isPercentage: true, isActive: true })}
+                        {card(10, { header: "16", type: "ACTIVE", subType: "OPERATORS", progressvalue: 25, isIcon: false, isPercentage: true, isActive: false })}
+                        {card(10, { header: "4", type: "PRODUCT", subType: "DISCHARGE", progressvalue: 25, isIcon: true, isPercentage: false, isActive: false })}
                         {timeCard()}
-                        {card(10, { header: "100", type: "HARDWARE", subType: "PROTYPING", progressvalue: 100, isIcon: false, isPercentage: true })}
+                        {card(10, { header: "100", type: "HARDWARE", subType: "PROTYPING", progressvalue: 100, isIcon: false, isPercentage: true, isActive: false })}
                     </div>
 
                     <div className="card m-1">

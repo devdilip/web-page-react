@@ -12,6 +12,21 @@
 .small-time-card{
     display: none;
 }
+.time-count{
+    color: cadetblue;
+    font-weight: 400;
+}
+.card-header-color{
+    color: darkgray;
+    font-weight: 400;
+}
+.card-headers-title{
+    font-weight: 400; 
+}
+.active-card{
+    background: #007bff;
+    color: white;
+}
 @media(max-width:520px) {
     .event-cart {
         display: none;
@@ -30,9 +45,11 @@
         text-align: center;
     }
     .time-card-small{
-        margin-bottom: 22px;
+        margin-bottom: 20px;
     }
-    .time-count{
-        color: cadetblue;
+    .time-small-header{
+        font-size: 60%;
+        font-weight: 400;
     }
+
   }
