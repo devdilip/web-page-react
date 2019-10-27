@@ -1,3 +1,10 @@
 .sidebar-name{
     margin-left: 10px;
 }
+.active-sidebar{
+    background: #deeafb;
+    color: #deeafb;
+}
+.st_font_size12q{
+    cursor: pointer;
+}

@@ -101,9 +101,9 @@ export default class PageContent extends Component {
                                 </div>
                                 <div className="m-3">
                                 <div className="event-button">
-                                    <button class="btn btn-secondary custom-button">Alert Event</button>
-                                    <button class="btn btn-secondary custom-button">Machines</button>
-                                    <button class="btn btn-secondary custom-button">Discharge</button>
+                                    <button className="btn btn-secondary custom-button">Alert Event</button>
+                                    <button className="btn btn-secondary custom-button">Machines</button>
+                                    <button className="btn btn-secondary custom-button">Discharge</button>
                                     <span>Past 30 days > </span>
                                 </div>
                                 </div>

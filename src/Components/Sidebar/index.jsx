@@ -3,9 +3,9 @@ import './Sidebar.css';
 
 export default class sidebar extends Component {
     render() {
-        const sideBarLIElement = (imageUrl, sideBarName) => (
+        const sideBarLIElement = (imageUrl, sideBarName, isActive) => (
             <li>
-                <a className="st_font_size12q">
+                <a className={`st_font_size12q ${isActive ? 'active-sidebar' :  null}`}>
                     <img alt={"loading"} className="mr-1" src={require(`../../../src/Assets/images/${imageUrl}`)} />
                     <span className="sidebar-name">{sideBarName}</span>
                 </a>
@@ -19,7 +19,7 @@ export default class sidebar extends Component {
             >
                 <ul className="sidebar-navigation">
                     <li className="header header-side-bar">PLATFORM</li>
-                    {sideBarLIElement("twotone-home-24px.svg", "HOME")}
+                    {sideBarLIElement("twotone-home-24px.svg", "HOME", true)}
                     {sideBarLIElement("twotone-dvr-24px.svg", "MACHINE")}
                     {sideBarLIElement("twotone-work-24px.svg", "CLIENT")}
                     {sideBarLIElement("twotone-access_alarms-24px.svg", "PLANNING")}
