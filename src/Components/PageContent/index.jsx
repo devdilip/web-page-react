@@ -14,10 +14,10 @@ export default class PageContent extends Component {
                         <div>  <span className="span_sty_123wq">{cardDetails.header}</span>{cardDetails.isPercentage ? '%' : null}</div>
                         {cardDetails.isIcon ? <div><img alt={"loading"} className="mr-1" src={require(`../../../src/Assets/images/twotone-group-24px.svg`)} /></div> : null}
                     </h5>
-                    <p className="card-text">
+                    <div className="card-text">
                         <div>{cardDetails.type}</div>
                         <div>{cardDetails.subType}</div>
-                    </p>
+                    </div>
                     <div className="progress p_bar123">
                         <div
                             className={`progress-bar w-${cardDetails.progressvalue}`}
@@ -40,10 +40,10 @@ export default class PageContent extends Component {
                                 <span style={{ fontSize: "30px" }}>{`07:30:00`}</span>
                             </h5>
                             <div className="mt-2 mb-3">27/09/2019</div>
-                            <p className="card-text">
+                            <div className="card-text">
                                 <div>{`STARTING`}</div>
                                 <div>{`TIME`}</div>
-                            </p>
+                            </div>
                         </div>
                         <div className="border_style1 time-card-details"></div>
                         <div className="m-3">
@@ -93,11 +93,11 @@ export default class PageContent extends Component {
                                     <h5 className="card-title">
                                         <span className="">Events</span>
                                     </h5>
-                                    <p className="card-text">
+                                    <div className="card-text">
                                         <div className='small'>Alert Events</div>
                                         <div> <span className="span_sty_123wq">23</span></div>
                                         <div className='small'>in the past 30 days</div>
-                                    </p>
+                                    </div>
                                 </div>
                                 <div className="border_style1"></div>
                                 <div className="m-3">
