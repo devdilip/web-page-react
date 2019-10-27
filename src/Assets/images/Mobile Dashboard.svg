@@ -1,0 +1,195 @@
+<svg id="Mobile_Dashboard" data-name="Mobile Dashboard" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="827" viewBox="0 0 450 827">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#efefef"/>
+    </linearGradient>
+    <filter id="Rectangle_10" x="10" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy" x="195" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy-2" x="380" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10-2" x="10" y="302" width="429.822" height="310" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="450" height="827" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <filter id="Rectangle_10-3" x="10" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10)">
+        <rect id="Rectangle_10-4" data-name="Rectangle 10" width="160" height="160" rx="8" fill="#1581ff"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_10_Copy-3" x="195" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10_Copy)">
+        <rect id="Rectangle_10_Copy-4" data-name="Rectangle 10 Copy" width="160" height="160" rx="8" fill="#fff"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_10_Copy-5" x="380" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy_4" x="22" y="619" width="406" height="191" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-8"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-3" x1="0.682" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Rectangle_10-5" x="10" y="302" width="429.822" height="310" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-5">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10-2)">
+        <rect id="Rectangle_10-6" data-name="Rectangle 10" width="399.822" height="280" rx="8" fill="#102734"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_7" x="-15" y="-13" width="480" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-10"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Rectangle_11-2" data-name="Rectangle 11" width="450" height="827" fill="url(#linear-gradient)"/>
+  <g clip-path="url(#clip-path)">
+    <g id="Group_2" data-name="Group 2" transform="translate(25 105)">
+      <g transform="matrix(1, 0, 0, 1, -25, -105)" filter="url(#Rectangle_10-3)">
+        <rect id="Rectangle_10-7" data-name="Rectangle 10" width="160" height="160" rx="8" transform="translate(25 105)" fill="#1581ff"/>
+      </g>
+      <g id="Group_2-2" data-name="Group 2" clip-path="url(#clip-path-2)">
+        <g id="Group_3" data-name="Group 3" transform="translate(17 140)">
+          <rect id="Rectangle" width="126" height="4" rx="2" fill="rgba(255,255,255,0.2)"/>
+          <rect id="Rectangle_Copy" data-name="Rectangle Copy" width="65.52" height="4" rx="2" fill="#fff"/>
+        </g>
+        <text id="_52_" data-name="52%" transform="translate(17 70)" fill="rgba(255,255,255,0.4)" font-size="53.76" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">52</tspan><tspan y="0" font-size="21.76">%</tspan></text>
+        <text id="LAVORAZIONE_PRODOTTO" data-name="LAVORAZIONE PRODOTTO" transform="translate(17 115)" fill="#fff" font-size="16.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LAVORAZIONE</tspan><tspan x="0" y="22">PRODOTTO</tspan></text>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(210 105)">
+      <g transform="matrix(1, 0, 0, 1, -210, -105)" filter="url(#Rectangle_10_Copy-3)">
+        <rect id="Rectangle_10_Copy-7" data-name="Rectangle 10 Copy" width="160" height="160" rx="8" transform="translate(210 105)" fill="#fff"/>
+      </g>
+      <g id="Group_4-2" data-name="Group 4" clip-path="url(#clip-path-3)">
+        <g id="Group_3-2" data-name="Group 3" transform="translate(17 140)">
+          <rect id="Rectangle-2" data-name="Rectangle" width="126" height="4" rx="2" fill="rgba(21,129,255,0.2)"/>
+          <rect id="Rectangle_Copy-2" data-name="Rectangle Copy" width="20.16" height="4" rx="2" fill="#1581ff"/>
+        </g>
+        <text id="_16" data-name="16" transform="translate(17 70)" fill="#2e3a3c" font-size="53.76" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">16</tspan></text>
+        <text id="OPERATORI_ATTIVI" data-name="OPERATORI ATTIVI" transform="translate(17 115)" fill="#2e3a3c" font-size="16.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">OPERATORI</tspan><tspan x="0" y="22">ATTIVI</tspan></text>
+        <g id="twotone-person-24px" transform="translate(114 34)">
+          <g id="Duotone">
+            <g id="Group">
+              <path id="Shape" d="M10.875,0C6,0,.417,2.32,0,3.625H21.75C21.388,2.338,15.769,0,10.875,0Z" transform="translate(3.625 21.75)" opacity="0.3"/>
+              <circle id="Oval" cx="3.625" cy="3.625" r="3.625" transform="translate(10.875 3.625)" opacity="0.3"/>
+              <path id="Shape-2" data-name="Shape" d="M27.8,10.875H1.2A1.2,1.2,0,0,1,0,9.675V7.25C0,4.56,2.956,2.811,5.435,1.817A26.911,26.911,0,0,1,14.5,0a26.911,26.911,0,0,1,9.065,1.817C26.044,2.811,29,4.56,29,7.25V9.675A1.2,1.2,0,0,1,27.8,10.875ZM14.5,3.625C9.656,3.625,4.022,5.951,3.625,7.25H25.375C25.01,5.952,19.389,3.625,14.5,3.625Z" transform="translate(0 18.125)" fill="#2e3a3c"/>
+              <path id="Shape-3" data-name="Shape" d="M7.25,14.5A7.25,7.25,0,1,1,14.5,7.25,7.258,7.258,0,0,1,7.25,14.5Zm0-10.875A3.625,3.625,0,1,0,10.875,7.25,3.629,3.629,0,0,0,7.25,3.625Z" transform="translate(7.25)" fill="#2e3a3c"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4_Copy" data-name="Group 4 Copy" transform="translate(395 105)">
+      <g transform="matrix(1, 0, 0, 1, -395, -105)" filter="url(#Rectangle_10_Copy-5)">
+        <rect id="Rectangle_10_Copy-8" data-name="Rectangle 10 Copy" width="160" height="160" rx="8" transform="translate(395 105)" fill="#fff"/>
+      </g>
+      <g id="Group_4_Copy-2" data-name="Group 4 Copy" clip-path="url(#clip-path-3)">
+        <g id="Group_3-3" data-name="Group 3" transform="translate(17 140)">
+          <rect id="Rectangle-3" data-name="Rectangle" width="126" height="4" rx="2" fill="rgba(21,129,255,0.2)"/>
+          <rect id="Rectangle_Copy-3" data-name="Rectangle Copy" width="5.04" height="4" rx="2" fill="#1581ff"/>
+        </g>
+        <text id="_4_" data-name="4%" transform="translate(17 70)" fill="#2e3a3c" font-size="53.76" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4%</tspan></text>
+        <text id="SCARTO_GENERATO" data-name="SCARTO GENERATO" transform="translate(17 115)" fill="#2e3a3c" font-size="16.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SCARTO</tspan><tspan x="0" y="22">GENERATO</tspan></text>
+        <g id="twotone-person-24px-2" data-name="twotone-person-24px" transform="translate(114 34)">
+          <g id="Duotone-2" data-name="Duotone">
+            <g id="Group-2" data-name="Group">
+              <path id="Shape-4" data-name="Shape" d="M10.875,0C6,0,.417,2.32,0,3.625H21.75C21.388,2.338,15.769,0,10.875,0Z" transform="translate(3.625 21.75)" opacity="0.3"/>
+              <circle id="Oval-2" data-name="Oval" cx="3.625" cy="3.625" r="3.625" transform="translate(10.875 3.625)" opacity="0.3"/>
+              <path id="Shape-5" data-name="Shape" d="M27.8,10.875H1.2A1.2,1.2,0,0,1,0,9.675V7.25C0,4.56,2.956,2.811,5.435,1.817A26.911,26.911,0,0,1,14.5,0a26.911,26.911,0,0,1,9.065,1.817C26.044,2.811,29,4.56,29,7.25V9.675A1.2,1.2,0,0,1,27.8,10.875ZM14.5,3.625C9.656,3.625,4.022,5.951,3.625,7.25H25.375C25.01,5.952,19.389,3.625,14.5,3.625Z" transform="translate(0 18.125)" fill="#2e3a3c"/>
+              <path id="Shape-6" data-name="Shape" d="M7.25,14.5A7.25,7.25,0,1,1,14.5,7.25,7.258,7.258,0,0,1,7.25,14.5Zm0-10.875A3.625,3.625,0,1,0,10.875,7.25,3.629,3.629,0,0,0,7.25,3.625Z" transform="translate(7.25)" fill="#2e3a3c"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10_Copy_4)">
+      <rect id="Rectangle_10_Copy_4-2" data-name="Rectangle 10 Copy 4" width="400" height="185" rx="16" transform="translate(25 622)" fill="#fff"/>
+    </g>
+    <text id="_06:57:24" data-name="06:57:24" transform="translate(225.5 737)" fill="#528993" font-size="47.709" font-family="SegoeUI, Segoe UI"><tspan x="-87.498" y="0">06:57:24</tspan></text>
+    <text id="DURATA" transform="translate(226 773)" fill="#2e3a3c" font-size="20.698" font-family="SegoeUI, Segoe UI"><tspan x="-37.878" y="0">DURATA</tspan></text>
+    <text id="_07:38:00_09_11_2018" data-name="07:38:00 09/11/2018" transform="translate(397 660)" fill="#818181" font-size="13.44" font-family="SegoeUI, Segoe UI"><tspan x="-125.094" y="0" xml:space="preserve">07:38:00  09/11/2018</tspan></text>
+    <text id="TEMPO_INIZIALE" data-name="TEMPO INIZIALE" transform="translate(52 660)" fill="#2e3a3c" font-size="13.44" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TEMPO INIZIALE</tspan></text>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="105" height="210" transform="translate(370 80)" fill="url(#linear-gradient-3)"/>
+    <g id="Group_2_Copy" data-name="Group 2 Copy" transform="translate(25 317)">
+      <g transform="matrix(1, 0, 0, 1, -25, -317)" filter="url(#Rectangle_10-5)">
+        <rect id="Rectangle_10-8" data-name="Rectangle 10" width="399.822" height="280" rx="8" transform="translate(25 317)" fill="#102734"/>
+      </g>
+      <g id="Group_2_Copy-2" data-name="Group 2 Copy" clip-path="url(#clip-path-5)">
+        <text id="Temperature" transform="translate(19.5 39)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI" opacity="0.6"><tspan x="0" y="0">Temperature</tspan></text>
+        <g id="Area_chart" data-name="Area chart" transform="translate(0 80.8)">
+          <path id="area_2" d="M0,0C39.982,0,39.982,100.8,79.964,100.8S119.947,112,159.929,112s39.982,35.84,79.964,35.84,39.982,44.8,79.964,44.8S359.84,38.08,399.822,38.08V199.36H0Z" transform="translate(0 0.64)" fill="rgba(29,111,176,0.8)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(0 290)" fill="none" stroke="rgba(0,0,0,0.03)" stroke-miterlimit="10" stroke-width="1">
+      <rect width="450" height="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="449" height="1" fill="none"/>
+    </g>
+    <g id="Group_5" data-name="Group 5">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_7)">
+        <rect id="Rectangle_7-2" data-name="Rectangle 7" width="450" height="80" fill="#fff"/>
+      </g>
+      <text id="DASHBOARD" transform="translate(225 50)" fill="#2e3a3c" font-size="19.2" font-family="SegoeUI, Segoe UI"><tspan x="-55.777" y="0">DASHBOARD</tspan></text>
+      <g id="Group-3" data-name="Group" transform="translate(37 35)">
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="32" height="4" rx="2" fill="#2e3a3c"/>
+        <rect id="Rectangle_9_Copy" data-name="Rectangle 9 Copy" width="22" height="4" rx="2" transform="translate(0 10)" fill="#2e3a3c"/>
+      </g>
+    </g>
+  </g>
+</svg>

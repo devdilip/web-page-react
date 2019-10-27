@@ -1,0 +1,239 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="827" viewBox="0 0 450 827">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#efefef"/>
+    </linearGradient>
+    <filter id="Rectangle_10" x="10" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy" x="195" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy-2" x="380" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10-2" x="10" y="302" width="429.822" height="310" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="450" height="827" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <filter id="Rectangle_10-3" x="10" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10)">
+        <rect id="Rectangle_10-4" data-name="Rectangle 10" width="160" height="160" rx="8" fill="#1581ff"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_10_Copy-3" x="195" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10_Copy)">
+        <rect id="Rectangle_10_Copy-4" data-name="Rectangle 10 Copy" width="160" height="160" rx="8" fill="#fff"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_10_Copy-5" x="380" y="90" width="190" height="190" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-7"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy_4" x="22" y="619" width="406" height="191" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur-8"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.682" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Rectangle_10-5" x="10" y="302" width="429.822" height="310" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-5">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10-2)">
+        <rect id="Rectangle_10-6" data-name="Rectangle 10" width="399.822" height="280" rx="8" fill="#102734"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_7" x="-15" y="-13" width="480" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-10"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <g id="Group_2" data-name="Group 2" transform="translate(25 105)">
+      <g transform="matrix(1, 0, 0, 1, -25, -105)" filter="url(#Rectangle_10-3)">
+        <rect id="Rectangle_10-7" data-name="Rectangle 10" width="160" height="160" rx="8" transform="translate(25 105)" fill="#1581ff"/>
+      </g>
+      <g id="Group_2-2" data-name="Group 2" clip-path="url(#clip-path-2)">
+        <g id="Group_3" data-name="Group 3" transform="translate(17 140)">
+          <rect id="Rectangle" width="126" height="4" rx="2" fill="rgba(255,255,255,0.2)"/>
+          <rect id="Rectangle_Copy" data-name="Rectangle Copy" width="65.52" height="4" rx="2" fill="#fff"/>
+        </g>
+        <text id="_52_" data-name="52%" transform="translate(17 70)" fill="rgba(255,255,255,0.4)" font-size="53.76" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">52</tspan><tspan y="0" font-size="21.76">%</tspan></text>
+        <text id="LAVORAZIONE_PRODOTTO" data-name="LAVORAZIONE PRODOTTO" transform="translate(17 115)" fill="#fff" font-size="16.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LAVORAZIONE</tspan><tspan x="0" y="22">PRODOTTO</tspan></text>
+      </g>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(210 105)">
+      <g transform="matrix(1, 0, 0, 1, -210, -105)" filter="url(#Rectangle_10_Copy-3)">
+        <rect id="Rectangle_10_Copy-7" data-name="Rectangle 10 Copy" width="160" height="160" rx="8" transform="translate(210 105)" fill="#fff"/>
+      </g>
+      <g id="Group_4-2" data-name="Group 4" clip-path="url(#clip-path-3)">
+        <g id="Group_3-2" data-name="Group 3" transform="translate(17 140)">
+          <rect id="Rectangle-2" data-name="Rectangle" width="126" height="4" rx="2" fill="rgba(21,129,255,0.2)"/>
+          <rect id="Rectangle_Copy-2" data-name="Rectangle Copy" width="20.16" height="4" rx="2" fill="#1581ff"/>
+        </g>
+        <text id="_16" data-name="16" transform="translate(17 70)" fill="#2e3a3c" font-size="53.76" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">16</tspan></text>
+        <text id="OPERATORI_ATTIVI" data-name="OPERATORI ATTIVI" transform="translate(17 115)" fill="#2e3a3c" font-size="16.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">OPERATORI</tspan><tspan x="0" y="22">ATTIVI</tspan></text>
+        <g id="twotone-person-24px" transform="translate(114 34)">
+          <g id="Duotone">
+            <g id="Group">
+              <path id="Shape" d="M10.875,0C6,0,.417,2.32,0,3.625H21.75C21.388,2.338,15.769,0,10.875,0Z" transform="translate(3.625 21.75)" opacity="0.3"/>
+              <circle id="Oval" cx="3.625" cy="3.625" r="3.625" transform="translate(10.875 3.625)" opacity="0.3"/>
+              <path id="Shape-2" data-name="Shape" d="M27.8,10.875H1.2A1.2,1.2,0,0,1,0,9.675V7.25C0,4.56,2.956,2.811,5.435,1.817A26.911,26.911,0,0,1,14.5,0a26.911,26.911,0,0,1,9.065,1.817C26.044,2.811,29,4.56,29,7.25V9.675A1.2,1.2,0,0,1,27.8,10.875ZM14.5,3.625C9.656,3.625,4.022,5.951,3.625,7.25H25.375C25.01,5.952,19.389,3.625,14.5,3.625Z" transform="translate(0 18.125)" fill="#2e3a3c"/>
+              <path id="Shape-3" data-name="Shape" d="M7.25,14.5A7.25,7.25,0,1,1,14.5,7.25,7.258,7.258,0,0,1,7.25,14.5Zm0-10.875A3.625,3.625,0,1,0,10.875,7.25,3.629,3.629,0,0,0,7.25,3.625Z" transform="translate(7.25)" fill="#2e3a3c"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4_Copy" data-name="Group 4 Copy" transform="translate(395 105)">
+      <g transform="matrix(1, 0, 0, 1, -395, -105)" filter="url(#Rectangle_10_Copy-5)">
+        <rect id="Rectangle_10_Copy-8" data-name="Rectangle 10 Copy" width="160" height="160" rx="8" transform="translate(395 105)" fill="#fff"/>
+      </g>
+      <g id="Group_4_Copy-2" data-name="Group 4 Copy" clip-path="url(#clip-path-3)">
+        <g id="Group_3-3" data-name="Group 3" transform="translate(17 140)">
+          <rect id="Rectangle-3" data-name="Rectangle" width="126" height="4" rx="2" fill="rgba(21,129,255,0.2)"/>
+          <rect id="Rectangle_Copy-3" data-name="Rectangle Copy" width="5.04" height="4" rx="2" fill="#1581ff"/>
+        </g>
+        <text id="_4_" data-name="4%" transform="translate(17 70)" fill="#2e3a3c" font-size="53.76" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4%</tspan></text>
+        <text id="SCARTO_GENERATO" data-name="SCARTO GENERATO" transform="translate(17 115)" fill="#2e3a3c" font-size="16.8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SCARTO</tspan><tspan x="0" y="22">GENERATO</tspan></text>
+        <g id="twotone-person-24px-2" data-name="twotone-person-24px" transform="translate(114 34)">
+          <g id="Duotone-2" data-name="Duotone">
+            <g id="Group-2" data-name="Group">
+              <path id="Shape-4" data-name="Shape" d="M10.875,0C6,0,.417,2.32,0,3.625H21.75C21.388,2.338,15.769,0,10.875,0Z" transform="translate(3.625 21.75)" opacity="0.3"/>
+              <circle id="Oval-2" data-name="Oval" cx="3.625" cy="3.625" r="3.625" transform="translate(10.875 3.625)" opacity="0.3"/>
+              <path id="Shape-5" data-name="Shape" d="M27.8,10.875H1.2A1.2,1.2,0,0,1,0,9.675V7.25C0,4.56,2.956,2.811,5.435,1.817A26.911,26.911,0,0,1,14.5,0a26.911,26.911,0,0,1,9.065,1.817C26.044,2.811,29,4.56,29,7.25V9.675A1.2,1.2,0,0,1,27.8,10.875ZM14.5,3.625C9.656,3.625,4.022,5.951,3.625,7.25H25.375C25.01,5.952,19.389,3.625,14.5,3.625Z" transform="translate(0 18.125)" fill="#2e3a3c"/>
+              <path id="Shape-6" data-name="Shape" d="M7.25,14.5A7.25,7.25,0,1,1,14.5,7.25,7.258,7.258,0,0,1,7.25,14.5Zm0-10.875A3.625,3.625,0,1,0,10.875,7.25,3.629,3.629,0,0,0,7.25,3.625Z" transform="translate(7.25)" fill="#2e3a3c"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10_Copy_4)">
+      <rect id="Rectangle_10_Copy_4-2" data-name="Rectangle 10 Copy 4" width="400" height="185" rx="16" transform="translate(25 622)" fill="#fff"/>
+    </g>
+    <text id="_06:57:24" data-name="06:57:24" transform="translate(225.5 737)" fill="#528993" font-size="47.709" font-family="SegoeUI, Segoe UI"><tspan x="-87.498" y="0">06:57:24</tspan></text>
+    <text id="DURATA" transform="translate(226 773)" fill="#2e3a3c" font-size="20.698" font-family="SegoeUI, Segoe UI"><tspan x="-37.878" y="0">DURATA</tspan></text>
+    <text id="_07:38:00_09_11_2018" data-name="07:38:00 09/11/2018" transform="translate(397 660)" fill="#818181" font-size="13.44" font-family="SegoeUI, Segoe UI"><tspan x="-125.094" y="0" xml:space="preserve">07:38:00  09/11/2018</tspan></text>
+    <text id="TEMPO_INIZIALE" data-name="TEMPO INIZIALE" transform="translate(52 660)" fill="#2e3a3c" font-size="13.44" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">TEMPO INIZIALE</tspan></text>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="105" height="210" transform="translate(370 80)" fill="url(#linear-gradient-2)"/>
+    <g id="Group_2_Copy" data-name="Group 2 Copy" transform="translate(25 317)">
+      <g transform="matrix(1, 0, 0, 1, -25, -317)" filter="url(#Rectangle_10-5)">
+        <rect id="Rectangle_10-8" data-name="Rectangle 10" width="399.822" height="280" rx="8" transform="translate(25 317)" fill="#102734"/>
+      </g>
+      <g id="Group_2_Copy-2" data-name="Group 2 Copy" clip-path="url(#clip-path-5)">
+        <g id="Combined_Shape" data-name="Combined Shape" transform="translate(369 20)" fill="rgba(255,255,255,0.2)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" opacity="0.5">
+          <path d="M 2.99970006942749 16.60020065307617 C 1.014819979667664 16.60020065307617 -0.6000000238418579 14.89535045623779 -0.6000000238418579 12.79979991912842 C -0.6000000238418579 11.57110023498535 -0.03359265252947807 10.42189311981201 0.9003387093544006 9.71288013458252 C 0.9003133177757263 9.708657264709473 0.9002999663352966 9.704422950744629 0.9002999663352966 9.700200080871582 L 0.9002999663352966 1.500300168991089 C 0.9002999663352966 0.342190146446228 1.842090010643005 -0.5999998450279236 2.99970006942749 -0.5999998450279236 C 4.157809734344482 -0.5999998450279236 5.099999904632568 0.342190146446228 5.099999904632568 1.500300168991089 L 5.099999904632568 9.700200080871582 C 5.099999904632568 9.704568862915039 5.09998607635498 9.708950996398926 5.099958896636963 9.713319778442383 C 6.033802032470703 10.42241191864014 6.600299835205078 11.57150745391846 6.600299835205078 12.79979991912842 C 6.600299835205078 14.89535045623779 4.985079765319824 16.60020065307617 2.99970006942749 16.60020065307617 Z" stroke="none"/>
+          <path d="M 2.99970006942749 16.00020027160645 C 4.656599998474121 16.00020027160645 6.00029993057251 14.5673999786377 6.00029993057251 12.79979991912842 C 6.00029993057251 11.60179996490479 5.382500171661377 10.55741024017334 4.468100070953369 10.00911998748779 C 4.488979816436768 9.909450531005859 4.5 9.806079864501953 4.5 9.700200080871582 L 4.5 1.500300168991089 C 4.5 0.6714001297950745 3.82859992980957 1.358032193365943e-07 2.99970006942749 1.358032193365943e-07 C 2.171700000762939 1.358032193365943e-07 1.50029993057251 0.6714001297950745 1.50029993057251 1.500300168991089 L 1.50029993057251 9.700200080871582 C 1.50029993057251 9.805970191955566 1.511279940605164 9.909170150756836 1.532119989395142 10.00876045227051 C 0.6177099943161011 10.55697059631348 -3.471374654395731e-08 11.6015796661377 -3.471374654395731e-08 12.79979991912842 C -3.471374654395731e-08 14.5673999786377 1.34280002117157 16.00020027160645 2.99970006942749 16.00020027160645 M 2.99970006942749 17.2002010345459 C 0.6839799880981445 17.2002010345459 -1.200000047683716 15.2261905670166 -1.200000047683716 12.79979991912842 C -1.200000047683716 11.49025440216064 -0.6392723321914673 10.25719547271729 0.3002999722957611 9.429293632507324 L 0.3002999722957611 1.500300168991089 C 0.3002999722957611 0.01135013625025749 1.511250019073486 -1.199999809265137 2.99970006942749 -1.199999809265137 C 4.488649845123291 -1.199999809265137 5.699999809265137 0.01135013625025749 5.699999809265137 1.500300168991089 L 5.699999809265137 9.42973804473877 C 6.63956880569458 10.25767135620117 7.200299739837646 11.49057102203369 7.200299739837646 12.79979991912842 C 7.200299739837646 15.2261905670166 5.315919876098633 17.2002010345459 2.99970006942749 17.2002010345459 Z" stroke="none" fill="#fff"/>
+        </g>
+        <text id="Temperature" transform="translate(19.5 39)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI" opacity="0.6"><tspan x="0" y="0">Temperature</tspan></text>
+        <g id="Area_chart" data-name="Area chart" transform="translate(0 80.8)">
+          <path id="area_3" d="M0,0C39.982,0,39.982,132.16,79.964,132.16s39.982,6.72,79.964,6.72,39.982-87.36,79.964-87.36,39.982,71.68,79.964,71.68,39.982-20.16,79.964-20.16v60.48H0Z" transform="translate(0 36.48)" fill="#164276"/>
+          <path id="area_2" d="M0,0C39.982,0,39.982,100.8,79.964,100.8S119.947,112,159.929,112s39.982,35.84,79.964,35.84,39.982,44.8,79.964,44.8S359.84,38.08,399.822,38.08V199.36H0Z" transform="translate(0 0.64)" fill="rgba(29,111,176,0.8)"/>
+          <path id="area_1" d="M0,22.4c39.982,0,39.982,125.44,79.964,125.44S119.947,0,159.929,0s39.982,96.32,79.964,96.32S279.875,112,319.857,112s39.982-22.4,79.964-22.4V194.88H0Z" transform="translate(0 5.12)" fill="rgba(50,123,208,0.5)"/>
+        </g>
+        <g id="Group_9" data-name="Group 9" transform="translate(42.118 102.4)">
+          <path id="Path_3" data-name="Path 3" stroke="rgba(255,255,255,0.15)" d="M.4,0V225.406" fill="none" transform="translate(7.208 11.019)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8" stroke-dasharray="4"/>
+          <text id="_65_4_" data-name="65,4°" transform="translate(8.211 7)" fill="rgba(255,255,255,0.3)" font-size="6.4" font-family="SegoeUI, Segoe UI"><tspan x="-7.075" y="0">65,4°</tspan></text>
+        </g>
+        <g id="Group_10" data-name="Group 10" transform="translate(102.673 148.4)">
+          <text id="_58_1_" data-name="58,1°" transform="translate(7.81 7)" fill="rgba(255,255,255,0.3)" font-size="6.4" font-family="SegoeUI, Segoe UI"><tspan x="-7.075" y="0">58,1°</tspan></text>
+          <path id="Path_3_Copy" data-name="Path 3 Copy" stroke="rgba(255,255,255,0.15)" d="M.4,0V225.406" fill="none" transform="translate(6.807 11.019)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8" stroke-dasharray="4"/>
+        </g>
+        <g id="Group_11" data-name="Group 11" transform="translate(162.425 54.4)">
+          <text id="_90_0_" data-name="90,0°" transform="translate(8.211 7)" fill="rgba(255,255,255,0.3)" font-size="6.4" font-family="SegoeUI, Segoe UI"><tspan x="-7.075" y="0">90,0°</tspan></text>
+          <path id="Path_3_Copy_4" data-name="Path 3 Copy 4" stroke="rgba(255,255,255,0.15)" d="M.4,0V225.406" fill="none" transform="translate(7.208 11.019)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8" stroke-dasharray="4"/>
+        </g>
+        <g id="Group_12" data-name="Group 12" transform="translate(222.579 130.4)">
+          <text id="_47_4_" data-name="47,4°" transform="translate(8.211 7)" fill="rgba(255,255,255,0.3)" font-size="6.4" font-family="SegoeUI, Segoe UI"><tspan x="-7.075" y="0">47,4°</tspan></text>
+          <path id="Path_3_Copy_5" data-name="Path 3 Copy 5" stroke="rgba(255,255,255,0.15)" d="M.4,0V225.406" fill="none" transform="translate(7.208 11.019)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8" stroke-dasharray="4"/>
+        </g>
+        <g id="Group_13" data-name="Group 13" transform="translate(283.134 156.4)">
+          <text id="_21_7_" data-name="21,7°" transform="translate(7.81 7)" fill="rgba(255,255,255,0.3)" font-size="6.4" font-family="SegoeUI, Segoe UI"><tspan x="-7.075" y="0">21,7°</tspan></text>
+          <path id="Path_3_Copy_6" data-name="Path 3 Copy 6" stroke="rgba(255,255,255,0.15)" d="M.4,0V225.406" fill="none" transform="translate(6.807 11.019)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8" stroke-dasharray="4"/>
+        </g>
+        <g id="Group_14" data-name="Group 14" transform="translate(342.887 148.4)">
+          <text id="_38_9_" data-name="38,9°" transform="translate(8.211 7)" fill="rgba(255,255,255,0.3)" font-size="6.4" font-family="SegoeUI, Segoe UI"><tspan x="-7.075" y="0">38,9°</tspan></text>
+          <path id="Path_3_Copy_8" data-name="Path 3 Copy 8" stroke="rgba(255,255,255,0.15)" d="M.4,0V225.406" fill="none" transform="translate(7.208 11.019)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8" stroke-dasharray="4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(0 290)" fill="none" stroke="rgba(0,0,0,0.03)" stroke-miterlimit="10" stroke-width="1">
+      <rect width="450" height="2" stroke="none"/>
+      <rect x="0.5" y="0.5" width="449" height="1" fill="none"/>
+    </g>
+    <g id="Group_5" data-name="Group 5">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_7)">
+        <rect id="Rectangle_7-2" data-name="Rectangle 7" width="450" height="80" fill="#fff"/>
+      </g>
+      <text id="DASHBOARD" transform="translate(225 50)" fill="#2e3a3c" font-size="19.2" font-family="SegoeUI, Segoe UI"><tspan x="-55.777" y="0">DASHBOARD</tspan></text>
+      <g id="Group-3" data-name="Group" transform="translate(37 35)">
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="32" height="4" rx="2" fill="#2e3a3c"/>
+        <rect id="Rectangle_9_Copy" data-name="Rectangle 9 Copy" width="22" height="4" rx="2" transform="translate(0 10)" fill="#2e3a3c"/>
+      </g>
+      <g id="twotone-notifications_active-24px" transform="translate(384 25)">
+        <g id="Bounding_Boxes">
+          <path id="Shape-7" data-name="Shape" d="M0,0H31V31H0Z" fill="none"/>
+        </g>
+        <g id="Duotone-3" data-name="Duotone" transform="translate(2.583 2.583)">
+          <g id="Group-4" data-name="Group">
+            <path id="Shape-8" data-name="Shape" d="M5.167,0C1.95,0,0,2.609,0,5.813v7.75H10.333V5.813C10.333,2.609,8.383,0,5.167,0Z" transform="translate(7.75 5.813)" fill="#2e3a3c" opacity="0.3"/>
+            <path id="Shape-9" data-name="Shape" d="M2.583,2.583A2.591,2.591,0,0,0,5.167,0H0A2.591,2.591,0,0,0,2.583,2.583Z" transform="translate(10.333 23.25)" fill="#2e3a3c"/>
+            <path id="Shape-10" data-name="Shape" d="M20.667,21.313H0V20.021l2.583-2.583V10.979A9.153,9.153,0,0,1,4.1,5.735,7.141,7.141,0,0,1,8.4,2.816V1.938a1.937,1.937,0,1,1,3.874,0v.878a7.131,7.131,0,0,1,4.3,2.924,9.162,9.162,0,0,1,1.516,5.239v6.458l2.583,2.583v1.291ZM10.333,5.167c-3.042,0-5.166,2.39-5.166,5.812v7.75H15.5v-7.75C15.5,7.557,13.375,5.167,10.333,5.167Z" transform="translate(2.583 0.646)" fill="#2e3a3c"/>
+            <path id="Shape-11" data-name="Shape" d="M7.169,1.847,5.322,0A13.466,13.466,0,0,0,0,10.14H2.583A10.909,10.909,0,0,1,7.169,1.847Z" transform="translate(0.039 0.84)" fill="#2e3a3c"/>
+            <path id="Shape-12" data-name="Shape" d="M4.573,10.14H7.156A13.548,13.548,0,0,0,1.834,0L0,1.847A10.973,10.973,0,0,1,4.573,10.14Z" transform="translate(18.639 0.84)" fill="#2e3a3c"/>
+          </g>
+        </g>
+      </g>
+      <circle id="Oval-3" data-name="Oval" cx="5" cy="5" r="5" transform="translate(403 45)" fill="#d03232"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg id="twotone-home-24px" xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="Bounding_Boxes">
+    <path id="Shape" d="M0,0H21V21H0Z" fill="none"/>
+  </g>
+  <g id="Duotone" transform="translate(1.75 2.625)">
+    <g id="Group">
+      <path id="Shape-2" data-name="Shape" d="M7.875,14.876H2.625v-7H0L8.75,0,17.5,7.875H14.875v7H9.625V9.625H7.875v5.251Zm-1.75-7h5.25v5.25h1.75V6.291L8.75,2.354,4.375,6.291v6.834h1.75V7.876Z" fill="#327bd0"/>
+      <path id="Shape-3" data-name="Shape" d="M0,3.938v6.834H1.75V5.521H7v5.25H8.75V3.938L4.375,0Z" transform="translate(4.375 2.354)" fill="#327bd0" opacity="0.3"/>
+    </g>
+  </g>
+</svg>

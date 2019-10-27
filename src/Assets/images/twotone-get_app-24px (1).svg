@@ -1,0 +1,14 @@
+<svg id="twotone-get_app-24px_1_" data-name="twotone-get_app-24px (1)" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <g id="Bounding_Boxes">
+    <path id="Shape" d="M0,0H19V19H0Z" fill="none"/>
+  </g>
+  <g id="Duotone" transform="translate(3.958 2.375)">
+    <g id="Group">
+      <path id="Shape-2" data-name="Shape" d="M3.436,4.75H2.51V0H.926V4.75H0L1.718,6.468Z" transform="translate(3.824 1.583)" opacity="0.3"/>
+      <g id="Group-2" data-name="Group">
+        <path id="Shape-3" data-name="Shape" d="M5.541,10.291h0L0,4.75H3.167V0H7.916V4.75h3.167L5.542,10.291ZM3.824,6.333,5.541,8.051,7.259,6.333H6.333V1.583H4.75v4.75Z"/>
+        <rect id="Rectangle-path" width="11.083" height="1.583" transform="translate(0 11.875)"/>
+      </g>
+    </g>
+  </g>
+</svg>

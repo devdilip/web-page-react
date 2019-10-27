@@ -1,0 +1,14 @@
+<svg id="twotone-access_alarms-24px" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19">
+  <g id="Bounding_Boxes">
+    <path id="Shape" d="M0,0H19V19H0Z" fill="none"/>
+  </g>
+  <g id="Duotone" transform="translate(1.583 0.792)">
+    <g id="Group">
+      <path id="Shape-2" data-name="Shape" d="M5.541,11.083A5.508,5.508,0,0,1,0,5.541,5.508,5.508,0,0,1,5.541,0a5.508,5.508,0,0,1,5.542,5.541,5.508,5.508,0,0,1-5.542,5.542Zm-.791-9.5v4.75l3.721,2.3.634-.95-3.167-1.9v-4.2Z" transform="translate(2.375 3.958)" opacity="0.3"/>
+      <path id="Shape-3" data-name="Shape" d="M4.671,3.088,1.029,0,0,1.188,3.642,4.275Z" transform="translate(11.163 0.633)"/>
+      <path id="Shape-4" data-name="Shape" d="M1.188,0H0V4.75l3.721,2.3.633-.95L1.188,4.2Z" transform="translate(7.125 5.542)"/>
+      <path id="Shape-5" data-name="Shape" d="M7.125,14.25A7.1,7.1,0,0,1,0,7.125,7.1,7.1,0,0,1,7.125,0,7.1,7.1,0,0,1,14.25,7.125,7.095,7.095,0,0,1,7.125,14.25Zm0-12.667A5.483,5.483,0,0,0,1.583,7.125a5.483,5.483,0,0,0,5.542,5.541,5.482,5.482,0,0,0,5.541-5.541A5.483,5.483,0,0,0,7.125,1.583Z" transform="translate(0.792 2.375)"/>
+      <path id="Shape-6" data-name="Shape" d="M4.671,1.188,3.642,0,0,3.008,1.029,4.2Z" transform="translate(0 0.712)"/>
+    </g>
+  </g>
+</svg>

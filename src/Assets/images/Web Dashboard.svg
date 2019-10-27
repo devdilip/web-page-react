@@ -1,0 +1,476 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1328" height="840" viewBox="0 0 1328 840">
+  <defs>
+    <filter id="Rectangle_6" x="0" y="0" width="1328" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10" x="288.5" y="109.5" width="143" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10-2" x="288.5" y="257.5" width="1012" height="365" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy" x="436.5" y="109.5" width="143" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-4"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy-2" x="288.5" y="627.5" width="595" height="200" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-5"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy-3" x="584.5" y="109.5" width="143" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-6"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy-4" x="1157.5" y="109.5" width="143" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-7"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy-5" x="732.5" y="109.5" width="420" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-8"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_6-2" x="0" y="0" width="1328" height="110" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-9"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_6)">
+        <rect id="Rectangle_6-3" data-name="Rectangle 6" width="1298" height="80" fill="#fff"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_10-3" x="288.5" y="109.5" width="143" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-10"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10)">
+        <rect id="Rectangle_10-4" data-name="Rectangle 10" width="128" height="128" rx="6.4" fill="#1581ff"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_10-5" x="288.5" y="257.5" width="1012" height="365" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-11"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10-2)">
+        <rect id="Rectangle_10-6" data-name="Rectangle 10" width="997" height="350" rx="6.4" fill="#102734"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_10_Copy-6" x="436.5" y="109.5" width="143" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-12"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-4">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10_Copy)">
+        <rect id="Rectangle_10_Copy-7" data-name="Rectangle 10 Copy" width="128" height="128" rx="6.4" fill="#fff"/>
+      </g>
+    </clipPath>
+    <filter id="Rectangle_10_Copy-8" x="288.5" y="627.5" width="595" height="200" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-13"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-5">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10_Copy-2)">
+        <rect id="Rectangle_10_Copy-9" data-name="Rectangle 10 Copy" width="580" height="185" rx="6.4" fill="#fff"/>
+      </g>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rectangle_4" data-name="Rectangle 4" width="397" height="104" rx="3" fill="none" stroke="#f8f8f8" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_4-2" data-name="Rectangle 4" width="397" height="104" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_10_Copy-10" x="584.5" y="109.5" width="143" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-14"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy-12" x="1157.5" y="109.5" width="143" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-15"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10_Copy-14" x="732.5" y="109.5" width="420" height="143" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-16"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-10">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_10_Copy-5)">
+        <rect id="Rectangle_10_Copy-15" data-name="Rectangle 10 Copy" width="405" height="128" rx="6.4" fill="#fff"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Web_Dashboard" data-name="Web Dashboard" transform="translate(15 13)">
+    <rect id="Web_Dashboard_background" data-name="Web Dashboard background" width="1298" height="827" fill="#fff"/>
+    <g id="Group_7" data-name="Group 7">
+      <g id="Group">
+        <g transform="matrix(1, 0, 0, 1, -15, -13)" filter="url(#Rectangle_6-2)">
+          <rect id="Rectangle_6-4" data-name="Rectangle 6" width="1298" height="80" transform="translate(15 13)" fill="#fff"/>
+        </g>
+        <g id="Group-2" data-name="Group" clip-path="url(#clip-path)">
+          <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(-2 -2)" fill="#f8f8f8" stroke="#eee" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" opacity="0.6">
+            <rect width="262" height="84" stroke="none"/>
+            <rect x="1" y="1" width="260" height="82" fill="none"/>
+          </g>
+          <text id="DASHBOARD" transform="translate(130 50)" fill="#2e3a3c" font-size="19.2" font-family="SegoeUI, Segoe UI"><tspan x="-55.777" y="0">DASHBOARD</tspan></text>
+        </g>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(298 24)">
+        <text id="PROJECT" transform="translate(0 15)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.055em"><tspan x="0" y="0">PROJECT</tspan></text>
+        <text id="Acme_Corp." data-name="Acme Corp." transform="translate(0 31)" fill="#2e3a3c" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.055em" opacity="0.6"><tspan x="0" y="0">Acme Corp.</tspan></text>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(448 24)">
+        <text id="DEVICE" transform="translate(0 15)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.055em"><tspan x="0" y="0">DEVICE</tspan></text>
+        <text id="Machine_313" data-name="Machine 313" transform="translate(0 31)" fill="#2e3a3c" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.055em" opacity="0.6"><tspan x="0" y="0">Machine 313</tspan></text>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(598 24)">
+        <text id="LOCATION" transform="translate(0 15)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI" letter-spacing="0.055em"><tspan x="0" y="0">LOCATION</tspan></text>
+        <text id="Ferrara_ItalY" data-name="Ferrara, ItalY" transform="translate(0 31)" fill="#2e3a3c" font-size="12" font-family="SegoeUI, Segoe UI" letter-spacing="0.055em" opacity="0.6"><tspan x="0" y="0">Ferrara, ItalY</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(281 104)">
+      <g transform="matrix(1, 0, 0, 1, -296, -117)" filter="url(#Rectangle_10-3)">
+        <rect id="Rectangle_10-7" data-name="Rectangle 10" width="128" height="128" rx="6.4" transform="translate(296 117)" fill="#1581ff"/>
+      </g>
+      <g id="Group_2-2" data-name="Group 2" clip-path="url(#clip-path-2)">
+        <g id="Group_3-2" data-name="Group 3" transform="translate(13.6 112)">
+          <rect id="Rectangle" width="100.8" height="3.2" rx="1.6" fill="rgba(255,255,255,0.2)"/>
+          <rect id="Rectangle_Copy" data-name="Rectangle Copy" width="52.416" height="3.2" rx="1.6" fill="#fff"/>
+        </g>
+        <text id="_52_" data-name="52%" transform="translate(13.6 55.6)" fill="rgba(255,255,255,0.4)" font-size="43.008" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">52</tspan><tspan y="0" font-size="17.408">%</tspan></text>
+        <text id="MACHINE_WORK" data-name="MACHINE WORK" transform="translate(13.6 92.6)" fill="#fff" font-size="13.44" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">MACHINE</tspan><tspan x="0" y="18">WORK</tspan></text>
+      </g>
+    </g>
+    <g id="Group_2_Copy" data-name="Group 2 Copy" transform="translate(281 252)">
+      <g transform="matrix(1, 0, 0, 1, -296, -265)" filter="url(#Rectangle_10-5)">
+        <rect id="Rectangle_10-8" data-name="Rectangle 10" width="997" height="350" rx="6.4" transform="translate(296 265)" fill="#102734"/>
+      </g>
+      <g id="Group_2_Copy-2" data-name="Group 2 Copy" clip-path="url(#clip-path-3)">
+        <text id="Machine_Temperatures" data-name="Machine Temperatures" transform="translate(23.6 48.6)" fill="#fff" font-size="23.44" font-family="SegoeUI, Segoe UI" opacity="0.6"><tspan x="0" y="0">Machine Temperatures</tspan></text>
+        <g id="Area_chart" data-name="Area chart" transform="translate(0 101)">
+          <path id="area_2" d="M0,0C99.7,0,99.7,126,199.4,126s99.7,14,199.4,14,99.7,44.8,199.4,44.8,99.7,56,199.4,56S897.3,47.6,997,47.6V249.2H0Z" transform="translate(0 0.8)" fill="rgba(29,111,176,0.8)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4-2" data-name="Group 4" transform="translate(429 104)">
+      <g transform="matrix(1, 0, 0, 1, -444, -117)" filter="url(#Rectangle_10_Copy-6)">
+        <rect id="Rectangle_10_Copy-16" data-name="Rectangle 10 Copy" width="128" height="128" rx="6.4" transform="translate(444 117)" fill="#fff"/>
+      </g>
+      <g id="Group_4-3" data-name="Group 4" clip-path="url(#clip-path-4)">
+        <g id="Group_3-3" data-name="Group 3" transform="translate(13.6 112)">
+          <rect id="Rectangle-2" data-name="Rectangle" width="100.8" height="3.2" rx="1.6" fill="rgba(21,129,255,0.2)"/>
+          <rect id="Rectangle_Copy-2" data-name="Rectangle Copy" width="16.128" height="3.2" rx="1.6" fill="#1581ff"/>
+        </g>
+        <text id="_16" data-name="16" transform="translate(13.6 55.6)" fill="#2e3a3c" font-size="43.008" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">16</tspan></text>
+        <text id="ACTIVE_OPERATORS" data-name="ACTIVE OPERATORS" transform="translate(13.6 92.6)" fill="#2e3a3c" font-size="13.44" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ACTIVE</tspan><tspan x="0" y="18">OPERATORS</tspan></text>
+        <g id="twotone-person-24px" transform="translate(91.2 27.2)">
+          <g id="Duotone">
+            <g id="Group-3" data-name="Group">
+              <path id="Shape" d="M8.7,0C4.8,0,.333,1.856,0,2.9H17.4C17.11,1.87,12.615,0,8.7,0Z" transform="translate(2.9 17.4)" opacity="0.3"/>
+              <circle id="Oval" cx="2.9" cy="2.9" r="2.9" transform="translate(8.7 2.9)" opacity="0.3"/>
+              <path id="Shape-2" data-name="Shape" d="M22.24,8.7H.96A.961.961,0,0,1,0,7.74V5.8C0,3.647,2.365,2.248,4.348,1.454A21.532,21.532,0,0,1,11.6,0a21.532,21.532,0,0,1,7.252,1.454C20.836,2.248,23.2,3.647,23.2,5.8V7.74A.961.961,0,0,1,22.24,8.7ZM11.6,2.9c-3.875,0-8.382,1.86-8.7,2.9H20.3C20.007,4.761,15.51,2.9,11.6,2.9Z" transform="translate(0 14.5)" fill="#2e3a3c"/>
+              <path id="Shape-3" data-name="Shape" d="M5.8,11.6a5.8,5.8,0,1,1,5.8-5.8A5.807,5.807,0,0,1,5.8,11.6Zm0-8.7A2.9,2.9,0,1,0,8.7,5.8,2.9,2.9,0,0,0,5.8,2.9Z" transform="translate(5.8)" fill="#2e3a3c"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4_Copy_3" data-name="Group 4 Copy 3" transform="translate(281 622)">
+      <g transform="matrix(1, 0, 0, 1, -296, -635)" filter="url(#Rectangle_10_Copy-8)">
+        <rect id="Rectangle_10_Copy-17" data-name="Rectangle 10 Copy" width="580" height="185" rx="6.4" transform="translate(296 635)" fill="#fff"/>
+      </g>
+      <g id="Group_4_Copy_3-2" data-name="Group 4 Copy 3" clip-path="url(#clip-path-5)">
+        <g id="Group_16" data-name="Group 16" transform="translate(159 46)">
+          <g id="Group_15" data-name="Group 15">
+            <g id="Rectangle_4-3" data-name="Rectangle 4" fill="none" stroke="#f8f8f8" stroke-miterlimit="10" stroke-width="1" stroke-dasharray="6">
+              <rect width="397" height="104" rx="3" stroke="none"/>
+              <rect x="0.5" y="0.5" width="396" height="103" rx="2.5" fill="none"/>
+            </g>
+            <g id="Group_15-2" data-name="Group 15" clip-path="url(#clip-path-6)">
+              <g id="Area_chart-2" data-name="Area chart">
+                <rect id="Rectangle_4-4" data-name="Rectangle 4" width="397" height="104" fill="none"/>
+                <g id="Area_chart-3" data-name="Area chart" clip-path="url(#clip-path-7)">
+                  <path id="area_1" d="M19.85,31.84c9.925,0,9.925,28.08,19.85,28.08s9.925-46.64,19.85-46.64S69.475,59.92,79.4,59.92s9.925-41.6,19.85-41.6,9.925,41.6,19.85,41.6,9.925-58.08,19.85-58.08,9.925,58.08,19.85,58.08,9.925-26.64,19.85-26.64,9.925,26.64,19.85,26.64,9.925-48.48,19.85-48.48,9.925,48.48,19.85,48.48,9.925-28.24,19.85-28.24,9.925,28.24,19.85,28.24S287.825,0,297.75,0s9.925,59.92,19.85,59.92,9.925-31.04,19.85-31.04,9.925,31.04,19.85,31.04,9.925-43.2,19.85-43.2,9.925,43.2,19.85,43.2H0C9.925,59.92,9.925,31.84,19.85,31.84Z" transform="translate(0 44.08)" fill="#327bd0"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <text id="_3" data-name="3" transform="translate(20 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-1.617" y="0">3</tspan></text>
+          <text id="_8" data-name="8" transform="translate(60 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-1.617" y="0">8</tspan></text>
+          <text id="_6" data-name="6" transform="translate(99 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-1.617" y="0">6</tspan></text>
+          <text id="_11" data-name="11" transform="translate(139 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-3.234" y="0">11</tspan></text>
+          <text id="_3-2" data-name="3" transform="translate(179 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-1.617" y="0">3</tspan></text>
+          <text id="_9" data-name="9" transform="translate(218 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-1.617" y="0">9</tspan></text>
+          <text id="_2" data-name="2" transform="translate(258 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-1.617" y="0">2</tspan></text>
+          <text id="_12" data-name="12" transform="translate(298 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-3.234" y="0">12</tspan></text>
+          <text id="_4" data-name="4" transform="translate(338 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-1.617" y="0">4</tspan></text>
+          <text id="_7" data-name="7" transform="translate(378 112)" fill="#9b9b9b" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="-1.617" y="0">7</tspan></text>
+        </g>
+        <text id="Events" transform="translate(23.6 41.6)" fill="#2e3a3c" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Events</tspan></text>
+        <text id="in_the_past_30_days" data-name="in the past 30 days" transform="translate(23.6 160.6)" fill="#2e3a3c" font-size="12" font-family="SegoeUI, Segoe UI" opacity="0.6"><tspan x="0" y="0">in the past 30 days</tspan></text>
+        <text id="Alert_events" data-name="Alert events" transform="translate(23.6 77.6)" fill="#2e3a3c" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Alert events</tspan></text>
+        <text id="Past_30_Days_" data-name="Past 30 Days &gt;" transform="translate(478 34)" fill="#2e3a3c" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0" xml:space="preserve">Past 30 Days   &gt;</tspan></text>
+        <g id="Group_17" data-name="Group 17" transform="translate(159 19)">
+          <g id="Rectangle_7" data-name="Rectangle 7" fill="#f8f8f8" stroke="#f8f8f8" stroke-miterlimit="10" stroke-width="1">
+            <rect width="70" height="20" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="69" height="19" rx="9.5" fill="none"/>
+          </g>
+          <text id="Alert_Events-2" data-name="Alert Events" transform="translate(11.5 14)" fill="#9b9b9b" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Alert Events</tspan></text>
+        </g>
+        <g id="Group_17_Copy" data-name="Group 17 Copy" transform="translate(239 19)">
+          <g id="Rectangle_7-2" data-name="Rectangle 7" fill="#f8f8f8" stroke="#f8f8f8" stroke-miterlimit="10" stroke-width="1">
+            <rect width="100" height="20" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="99" height="19" rx="9.5" fill="none"/>
+          </g>
+          <text id="Machines_Processes" data-name="Machines Processes" transform="translate(11.5 14)" fill="#9b9b9b" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Machines Processes</tspan></text>
+        </g>
+        <g id="Group_17_Copy_2" data-name="Group 17 Copy 2" transform="translate(349 19)">
+          <g id="Rectangle_7-3" data-name="Rectangle 7" fill="#f8f8f8" stroke="#f8f8f8" stroke-miterlimit="10" stroke-width="1">
+            <rect width="90" height="20" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="89" height="19" rx="9.5" fill="none"/>
+          </g>
+          <text id="Discharge_Percen." data-name="Discharge Percen." transform="translate(11.5 14)" fill="#9b9b9b" font-size="8" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Discharge Percen.</tspan></text>
+        </g>
+        <text id="_23" data-name="23" transform="translate(23.6 144.6)" fill="#2e3a3c" font-size="66" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">23</tspan></text>
+      </g>
+    </g>
+    <g id="Group_4_Copy" data-name="Group 4 Copy" transform="translate(577 104)">
+      <g transform="matrix(1, 0, 0, 1, -592, -117)" filter="url(#Rectangle_10_Copy-10)">
+        <rect id="Rectangle_10_Copy-18" data-name="Rectangle 10 Copy" width="128" height="128" rx="6.4" transform="translate(592 117)" fill="#fff"/>
+      </g>
+      <g id="Group_4_Copy-2" data-name="Group 4 Copy" clip-path="url(#clip-path-4)">
+        <g id="Group_3-4" data-name="Group 3" transform="translate(13.6 112)">
+          <rect id="Rectangle-3" data-name="Rectangle" width="100.8" height="3.2" rx="1.6" fill="rgba(21,129,255,0.2)"/>
+          <rect id="Rectangle_Copy-3" data-name="Rectangle Copy" width="4.032" height="3.2" rx="1.6" fill="#1581ff"/>
+        </g>
+        <text id="_4_" data-name="4%" transform="translate(13.6 55.6)" fill="rgba(46,58,60,0.4)" font-size="43.008" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">4</tspan><tspan y="0" font-size="17.41">%</tspan></text>
+        <text id="PRODUCT_DISCHARGE" data-name="PRODUCT DISCHARGE" transform="translate(13.6 92.6)" fill="#2e3a3c" font-size="13.44" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PRODUCT</tspan><tspan x="0" y="18">DISCHARGE</tspan></text>
+      </g>
+    </g>
+    <g id="Group_4_Copy_2" data-name="Group 4 Copy 2" transform="translate(1150 104)">
+      <g transform="matrix(1, 0, 0, 1, -1165, -117)" filter="url(#Rectangle_10_Copy-12)">
+        <rect id="Rectangle_10_Copy-19" data-name="Rectangle 10 Copy" width="128" height="128" rx="6.4" transform="translate(1165 117)" fill="#fff"/>
+      </g>
+      <g id="Group_4_Copy_2-2" data-name="Group 4 Copy 2" clip-path="url(#clip-path-4)">
+        <g id="Group_3-5" data-name="Group 3" transform="translate(13.6 112)">
+          <rect id="Rectangle-4" data-name="Rectangle" width="100.8" height="3.2" rx="1.6" fill="#32d082"/>
+        </g>
+        <text id="_100_" data-name="100%" transform="translate(13.6 55.6)" fill="rgba(46,58,60,0.4)" font-size="43.008" font-family="SegoeUI, Segoe UI" opacity="0.4"><tspan x="0" y="0">100</tspan><tspan y="0" font-size="17.41">%</tspan></text>
+        <text id="HARDWARE_PROTYPING" data-name="HARDWARE PROTYPING" transform="translate(13.6 92.6)" fill="#2e3a3c" font-size="13.44" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">HARDWARE</tspan><tspan x="0" y="18">PROTYPING</tspan></text>
+      </g>
+    </g>
+    <g id="Group_4_Copy_4" data-name="Group 4 Copy 4" transform="translate(725 104)">
+      <g transform="matrix(1, 0, 0, 1, -740, -117)" filter="url(#Rectangle_10_Copy-14)">
+        <rect id="Rectangle_10_Copy-20" data-name="Rectangle 10 Copy" width="405" height="128" rx="6.4" transform="translate(740 117)" fill="#fff"/>
+      </g>
+      <g id="Group_4_Copy_4-2" data-name="Group 4 Copy 4" clip-path="url(#clip-path-10)">
+        <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(172 11)" fill="none" stroke="rgba(0,0,0,0.05)" stroke-miterlimit="10" stroke-width="1">
+          <rect width="1" height="105" stroke="none"/>
+          <rect x="0.5" y="0.5" height="104" fill="none"/>
+        </g>
+        <text id="_07:38:00_11_09_2018" data-name="07:38:00 11/09/2018" transform="translate(23 48)" fill="#818181" font-size="26.408" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">07:38:00</tspan><tspan font-size="10.408"><tspan x="0" y="18" xml:space="preserve"> 11/09/2018</tspan></tspan></text>
+        <text id="_06:57:24" data-name="06:57:24" transform="translate(289 55)" fill="#528993" font-size="33.01" font-family="SegoeUI, Segoe UI"><tspan x="-60.54" y="0">06:57:24</tspan></text>
+        <text id="STARTING_TIME" data-name="STARTING TIME" transform="translate(24 93)" fill="#2e3a3c" font-size="13.44" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">STARTING</tspan><tspan x="0" y="18">TIME</tspan></text>
+        <text id="DURATION" transform="translate(328 93.6)" fill="#2e3a3c" font-size="14.784" font-family="SegoeUI, Segoe UI"><tspan x="-71.726" y="0">DURATION</tspan></text>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(0 100)">
+      <rect id="Rectangle_6_Copy" data-name="Rectangle 6 Copy" width="2" height="707" transform="translate(258)" fill="#f5f5f5"/>
+      <rect id="Rectangle_6_Copy_2" data-name="Rectangle 6 Copy 2" width="258" height="80" transform="translate(0 647)" fill="#f8f8f8"/>
+      <g id="Group_6" data-name="Group 6" transform="translate(0 10)">
+        <rect id="Rectangle_3" data-name="Rectangle 3" width="258" height="36" transform="translate(0 26)" fill="rgba(50,123,208,0.1)"/>
+        <g id="twotone-home-24px" transform="translate(25 33)">
+          <g id="Bounding_Boxes">
+            <path id="Shape-4" data-name="Shape" d="M0,0H21V21H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-2" data-name="Duotone" transform="translate(1.75 2.625)">
+            <g id="Group-4" data-name="Group">
+              <path id="Shape-5" data-name="Shape" d="M7.875,14.876H2.625v-7H0L8.75,0,17.5,7.875H14.875v7H9.625V9.625H7.875v5.251Zm-1.75-7h5.25v5.25h1.75V6.291L8.75,2.354,4.375,6.291v6.834h1.75V7.876Z" fill="#327bd0"/>
+              <path id="Shape-6" data-name="Shape" d="M0,3.938v6.834H1.75V5.521H7v5.25H8.75V3.938L4.375,0Z" transform="translate(4.375 2.354)" fill="#327bd0" opacity="0.3"/>
+            </g>
+          </g>
+        </g>
+        <g id="twotone-group-24px" transform="translate(26 255)">
+          <g id="Bounding_Boxes-2" data-name="Bounding_Boxes">
+            <path id="Shape-7" data-name="Shape" d="M0,0H19V19H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-3" data-name="Duotone" transform="translate(1.583 3.958)">
+            <g id="Group-5" data-name="Group">
+              <circle id="Oval-2" data-name="Oval" cx="1.188" cy="1.188" r="1.188" transform="translate(4.354 1.583)" opacity="0.3"/>
+              <path id="Shape-8" data-name="Shape" d="M0,.99H7.378A7.633,7.633,0,0,0,3.689,0,7.633,7.633,0,0,0,0,.99Z" transform="translate(1.852 8.51)" opacity="0.3"/>
+              <path id="Shape-9" data-name="Shape" d="M2.771,5.541a2.771,2.771,0,1,1,2.77-2.77A2.774,2.774,0,0,1,2.771,5.541Zm0-3.958A1.188,1.188,0,1,0,3.958,2.771,1.189,1.189,0,0,0,2.771,1.583Z" transform="translate(2.771)"/>
+              <path id="Shape-10" data-name="Shape" d="M11.083,4.156H0V2.771C0,.952,3.607,0,5.541,0s5.542.952,5.542,2.771V4.155ZM5.541,1.583a7.609,7.609,0,0,0-3.689.99H9.23A7.6,7.6,0,0,0,5.541,1.583Z" transform="translate(0 6.927)"/>
+              <path id="Shape-11" data-name="Shape" d="M0,0A3.319,3.319,0,0,1,1.552,2.723V4.109H4.718V2.723C4.718,1.124,1.947.214,0,0Z" transform="translate(11.115 6.975)"/>
+              <path id="Shape-12" data-name="Shape" d="M1.188,5.542A2.771,2.771,0,0,0,1.188,0,2.728,2.728,0,0,0,0,.277,4.307,4.307,0,0,1,.792,2.771,4.307,4.307,0,0,1,0,5.265,2.728,2.728,0,0,0,1.188,5.542Z" transform="translate(9.104)"/>
+            </g>
+          </g>
+        </g>
+        <g id="twotone-dvr-24px" transform="translate(27 75)">
+          <g id="Bounding_Boxes-3" data-name="Bounding_Boxes">
+            <path id="Shape-13" data-name="Shape" d="M0,0H17V17H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-4" data-name="Duotone" transform="translate(0.708 2.125)">
+            <g id="Group-6" data-name="Group">
+              <path id="Shape-14" data-name="Shape" d="M12.75,8.5H0V0H12.75V8.5ZM3.542,4.958V6.375h7.792V4.958Zm-2.125,0V6.375H2.833V4.958ZM3.542,2.125V3.542h7.792V2.125Zm-2.125,0V3.542H2.833V2.125Z" transform="translate(1.417 1.417)" opacity="0.3"/>
+              <rect id="Rectangle-path" width="7.792" height="1.417" transform="translate(4.958 6.375)"/>
+              <rect id="Rectangle-path-2" data-name="Rectangle-path" width="7.792" height="1.417" transform="translate(4.958 3.542)"/>
+              <path id="Shape-15" data-name="Shape" d="M10.625,12.75H4.958V11.334H1.417A1.418,1.418,0,0,1,0,9.917v-8.5A1.418,1.418,0,0,1,1.417,0h12.75a1.418,1.418,0,0,1,1.417,1.417v8.5a1.418,1.418,0,0,1-1.417,1.417H10.625v1.416ZM1.417,1.417v8.5h12.75v-8.5Z"/>
+              <rect id="Rectangle-path-3" data-name="Rectangle-path" width="1.417" height="1.417" transform="translate(2.833 6.375)"/>
+              <rect id="Rectangle-path-4" data-name="Rectangle-path" width="1.417" height="1.417" transform="translate(2.833 3.542)"/>
+            </g>
+          </g>
+        </g>
+        <g id="twotone-access_alarms-24px" transform="translate(26 154)">
+          <g id="Bounding_Boxes-4" data-name="Bounding_Boxes">
+            <path id="Shape-16" data-name="Shape" d="M0,0H19V19H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-5" data-name="Duotone" transform="translate(1.583 0.792)">
+            <g id="Group-7" data-name="Group">
+              <path id="Shape-17" data-name="Shape" d="M5.541,11.083A5.508,5.508,0,0,1,0,5.541,5.508,5.508,0,0,1,5.541,0a5.508,5.508,0,0,1,5.542,5.541,5.508,5.508,0,0,1-5.542,5.542Zm-.791-9.5v4.75l3.721,2.3.634-.95-3.167-1.9v-4.2Z" transform="translate(2.375 3.958)" opacity="0.3"/>
+              <path id="Shape-18" data-name="Shape" d="M4.671,3.088,1.029,0,0,1.188,3.642,4.275Z" transform="translate(11.163 0.633)"/>
+              <path id="Shape-19" data-name="Shape" d="M1.188,0H0V4.75l3.721,2.3.633-.95L1.188,4.2Z" transform="translate(7.125 5.542)"/>
+              <path id="Shape-20" data-name="Shape" d="M7.125,14.25A7.1,7.1,0,0,1,0,7.125,7.1,7.1,0,0,1,7.125,0,7.1,7.1,0,0,1,14.25,7.125,7.095,7.095,0,0,1,7.125,14.25Zm0-12.667A5.483,5.483,0,0,0,1.583,7.125a5.483,5.483,0,0,0,5.542,5.541,5.482,5.482,0,0,0,5.541-5.541A5.483,5.483,0,0,0,7.125,1.583Z" transform="translate(0.792 2.375)"/>
+              <path id="Shape-21" data-name="Shape" d="M4.671,1.188,3.642,0,0,3.008,1.029,4.2Z" transform="translate(0 0.712)"/>
+            </g>
+          </g>
+        </g>
+        <g id="twotone-folder_shared-24px" transform="translate(26 514)">
+          <g id="Bounding_Boxes-5" data-name="Bounding_Boxes">
+            <path id="Shape-22" data-name="Shape" d="M0,0H19V19H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-6" data-name="Duotone" transform="translate(1.583 3.167)">
+            <g id="Group-8" data-name="Group">
+              <path id="Shape-23" data-name="Shape" d="M12.667,9.5H0V0H4.093L5.209,1.116l.467.467h6.99V9.5ZM8.708,6.333c-1.105,0-3.167.544-3.167,1.583v.792h6.333V7.916C11.875,6.877,9.813,6.333,8.708,6.333Zm0-3.958a1.583,1.583,0,1,0,1.583,1.583A1.585,1.585,0,0,0,8.708,2.375Z" transform="translate(1.583 1.583)" opacity="0.3"/>
+              <path id="Shape-24" data-name="Shape" d="M14.25,12.667H1.583A1.585,1.585,0,0,1,0,11.083l.008-9.5A1.581,1.581,0,0,1,1.583,0h4.75L7.916,1.583H14.25a1.586,1.586,0,0,1,1.584,1.584v7.916A1.585,1.585,0,0,1,14.25,12.667ZM1.583,1.583v9.5H14.25V3.167H7.259L5.676,1.583Z"/>
+              <path id="Shape-25" data-name="Shape" d="M1.583,3.167A1.583,1.583,0,1,0,0,1.583,1.588,1.588,0,0,0,1.583,3.167Z" transform="translate(8.708 3.958)"/>
+              <path id="Shape-26" data-name="Shape" d="M0,1.583v.792H6.333V1.583C6.333.53,4.22,0,3.167,0S0,.53,0,1.583Z" transform="translate(7.125 7.917)"/>
+            </g>
+          </g>
+        </g>
+        <g id="twotone-memory-24px" transform="translate(25 434)">
+          <g id="Bounding_Boxes-6" data-name="Bounding_Boxes">
+            <path id="Shape-27" data-name="Shape" d="M0,0H21V21H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-7" data-name="Duotone" transform="translate(2.625 2.625)">
+            <g id="Group-9" data-name="Group">
+              <path id="Shape-28" data-name="Shape" d="M8.75,8.75H0V0H8.75V8.749Zm-7-7V7H7V1.75Z" transform="translate(3.5 3.5)" opacity="0.3"/>
+              <path id="Shape-29" data-name="Shape" d="M7,15.751H5.25V14H3.5a1.752,1.752,0,0,1-1.75-1.75V10.5H0V8.75H1.75V7H0V5.25H1.75V3.5A1.752,1.752,0,0,1,3.5,1.75H5.25V0H7V1.75H8.75V0H10.5V1.75h1.75A1.752,1.752,0,0,1,14,3.5V5.25h1.75V7H14V8.75h1.75V10.5H14v1.75A1.752,1.752,0,0,1,12.25,14H10.5v1.749H8.75V14H7v1.75ZM3.5,3.5v8.75h8.75V3.5Z"/>
+              <path id="Shape-30" data-name="Shape" d="M5.25,5.25H0V0H5.25V5.249Zm-3.5-3.5V3.5H3.5V1.75Z" transform="translate(5.25 5.25)"/>
+            </g>
+          </g>
+        </g>
+        <g id="twotone-cloud_done-24px" transform="translate(27 475)">
+          <g id="Bounding_Boxes-7" data-name="Bounding_Boxes">
+            <path id="Shape-31" data-name="Shape" d="M0,0H17V17H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-8" data-name="Duotone" transform="translate(0 2.833)">
+            <g id="Group-10" data-name="Group">
+              <path id="Shape-32" data-name="Shape" d="M12.042,8.5H2.833a2.835,2.835,0,0,1-.319-5.652l.758-.078L3.627,2.1a3.889,3.889,0,0,1,7.268,1.041L11.107,4.2l1.084.078A2.113,2.113,0,0,1,12.042,8.5ZM4.186,4.314h0l-1,1L5.666,7.791,9.923,3.534l-1-1L5.666,5.794,4.186,4.314Z" transform="translate(1.417 1.417)" opacity="0.3"/>
+              <path id="Shape-33" data-name="Shape" d="M13.459,11.334H4.25a4.248,4.248,0,0,1-.46-8.472,5.307,5.307,0,0,1,9.916,1.417,3.54,3.54,0,0,1,2.338,1.1A3.5,3.5,0,0,1,17,7.791,3.546,3.546,0,0,1,13.459,11.334ZM8.5,1.417a3.875,3.875,0,0,0-3.449,2.1L4.7,4.193l-.758.078A2.831,2.831,0,0,0,4.25,9.917h9.209a2.128,2.128,0,0,0,2.125-2.126,2.105,2.105,0,0,0-1.969-2.1l-1.084-.078-.212-1.062A3.9,3.9,0,0,0,8.5,1.417Z"/>
+              <path id="Shape-34" data-name="Shape" d="M2.479,3.258,1,1.778l-1,1L2.479,5.256,6.736,1l-1-1Z" transform="translate(4.604 3.953)"/>
+            </g>
+          </g>
+        </g>
+        <g id="twotone-work-24px" transform="translate(26 114)">
+          <g id="Bounding_Boxes-8" data-name="Bounding_Boxes">
+            <path id="Shape-35" data-name="Shape" d="M0,0H19V19H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-9" data-name="Duotone" transform="translate(1.583 1.583)">
+            <g id="Group-11" data-name="Group">
+              <rect id="Rectangle-path-5" data-name="Rectangle-path" width="12.667" height="8.708" transform="translate(1.583 4.75)" opacity="0.3"/>
+              <path id="Shape-36" data-name="Shape" d="M14.25,15.042H1.583A1.585,1.585,0,0,1,0,13.459L.008,4.75A1.562,1.562,0,0,1,1.583,3.167H4.75V1.583A1.585,1.585,0,0,1,6.333,0H9.5a1.585,1.585,0,0,1,1.583,1.583V3.167H14.25A1.585,1.585,0,0,1,15.834,4.75v8.708A1.585,1.585,0,0,1,14.25,15.042ZM1.583,4.75v8.708H14.25V4.75Zm4.75-3.167V3.167H9.5V1.583Z"/>
+            </g>
+          </g>
+        </g>
+        <g id="twotone-get_app-24px_1_" data-name="twotone-get_app-24px (1)" transform="translate(26 294)">
+          <g id="Bounding_Boxes-9" data-name="Bounding_Boxes">
+            <path id="Shape-37" data-name="Shape" d="M0,0H19V19H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-10" data-name="Duotone" transform="translate(3.958 2.375)">
+            <g id="Group-12" data-name="Group">
+              <path id="Shape-38" data-name="Shape" d="M3.436,4.75H2.51V0H.926V4.75H0L1.718,6.468Z" transform="translate(3.824 1.583)" opacity="0.3"/>
+              <g id="Group-13" data-name="Group">
+                <path id="Shape-39" data-name="Shape" d="M5.541,10.291h0L0,4.75H3.167V0H7.916V4.75h3.167L5.542,10.291ZM3.824,6.333,5.541,8.051,7.259,6.333H6.333V1.583H4.75v4.75Z"/>
+                <rect id="Rectangle-path-6" data-name="Rectangle-path" width="11.083" height="1.583" transform="translate(0 11.875)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="twotone-settings-24px" transform="translate(26 334)">
+          <g id="Bounding_Boxes-10" data-name="Bounding_Boxes">
+            <path id="Shape-40" data-name="Shape" d="M0,0H19V19H0Z" fill="none"/>
+          </g>
+          <g id="Duotone-11" data-name="Duotone" transform="translate(1.583 1.583)">
+            <g id="Group-14" data-name="Group">
+              <path id="Shape-41" data-name="Shape" d="M6.31,12.667h-1.1l-.15-1.076L4.932,10.7l-.839-.34a4.05,4.05,0,0,1-.974-.563L2.4,9.238,1.56,9.58l-1.005.4L0,9.025.855,8.36l.7-.554-.111-.895c-.024-.239-.04-.419-.04-.578s.015-.339.04-.578l.111-.895-.7-.554L0,3.641l.554-.958L1.56,3.1l.831.333L3.1,2.89a4.578,4.578,0,0,1,.99-.578l.839-.349.127-.895L5.209,0H6.317l.151,1.076.126.895.84.341a4.028,4.028,0,0,1,.974.562l.72.554.84-.34,1.005-.4.554.958-.87.665-.7.554.111.895c.024.243.04.414.04.578a4.278,4.278,0,0,1-.04.578l-.111.895.7.554.855.665-.554.958-1.005-.4-.823-.333-.713.538a4.577,4.577,0,0,1-.989.578l-.839.341L6.46,11.6l-.15,1.067Zm-.546-9.5A3.167,3.167,0,1,0,8.93,6.333,3.17,3.17,0,0,0,5.764,3.167Z" transform="translate(2.153 1.583)" opacity="0.3"/>
+              <path id="Shape-42" data-name="Shape" d="M9.285,15.834H6.119a.386.386,0,0,1-.388-.333l-.3-2.1a5.748,5.748,0,0,1-1.338-.776l-1.971.792a.384.384,0,0,1-.135.023.4.4,0,0,1-.348-.2L.055,10.506A.4.4,0,0,1,.15,10l1.67-1.307a6.04,6.04,0,0,1-.056-.776,6.061,6.061,0,0,1,.056-.776L.15,5.835a.388.388,0,0,1-.1-.507l1.583-2.74a.4.4,0,0,1,.34-.2.445.445,0,0,1,.143.024l1.971.791A6.054,6.054,0,0,1,5.431,2.43l.3-2.1A.386.386,0,0,1,6.119,0H9.285a.386.386,0,0,1,.388.332l.3,2.1a5.847,5.847,0,0,1,1.337.776l1.972-.791a.358.358,0,0,1,.134-.024.4.4,0,0,1,.348.2l1.583,2.74a.4.4,0,0,1-.095.507l-1.67,1.306a6.25,6.25,0,0,1,.055.776,6.267,6.267,0,0,1-.055.776L15.255,10a.4.4,0,0,1,.095.507l-1.583,2.739a.39.39,0,0,1-.34.2.458.458,0,0,1-.142-.023l-1.972-.792a6.039,6.039,0,0,1-1.337.776l-.3,2.1A.386.386,0,0,1,9.285,15.834Zm-4.947-5h0l.72.554a4.538,4.538,0,0,0,.974.563l.84.34L7,13.181l.15,1.068H8.257l.158-1.068.127-.895.839-.34a4.649,4.649,0,0,0,.99-.579l.712-.538.824.333,1.005.4.554-.958-.855-.665-.7-.554.111-.895a5.643,5.643,0,0,0,.04-.578,4.279,4.279,0,0,0-.04-.578l-.111-.895.7-.554.847-.672L12.9,4.259l-1.005.4L11.059,5l-.721-.553a4.457,4.457,0,0,0-.974-.563l-.839-.34L8.4,2.652l-.15-1.069h-1.1L6.99,2.652l-.127.895-.84.34a4.669,4.669,0,0,0-.989.578L4.322,5,3.5,4.671l-1.005-.4-.553.958.855.664.7.554-.111.895c-.022.228-.04.415-.04.578s.016.343.04.586L3.5,9.4l-.7.554-.855.665.553.958,1.005-.4.839-.341Z" transform="translate(0.214)"/>
+              <path id="Shape-43" data-name="Shape" d="M3.167,6.333A3.167,3.167,0,1,1,6.333,3.167,3.17,3.17,0,0,1,3.167,6.333Zm0-4.75A1.584,1.584,0,1,0,4.75,3.167,1.586,1.586,0,0,0,3.167,1.583Z" transform="translate(4.75 4.75)"/>
+            </g>
+          </g>
+        </g>
+        <text id="Home" transform="translate(60 51)" fill="#327bd0" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">HOME</tspan></text>
+        <text id="Platform" transform="translate(28 11)" fill="#9b9b9b" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PLATFORM</tspan></text>
+        <text id="SETTINGS" transform="translate(28 231)" fill="#9b9b9b" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SETTINGS</tspan></text>
+        <text id="Machines" transform="translate(60 91)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">MACHINES</tspan></text>
+        <text id="Clients" transform="translate(60 131)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">CLIENTS</tspan></text>
+        <text id="Users" transform="translate(60 271)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">USERS</tspan></text>
+        <text id="Planning" transform="translate(60 171)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PLANNING</tspan></text>
+        <text id="Export_Data" data-name="Export Data" transform="translate(60 311)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">EXPORT DATA</tspan></text>
+        <text id="Settings-2" data-name="Settings" transform="translate(60 351)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SETTINGS</tspan></text>
+        <text id="ADVANCED" transform="translate(28 411)" fill="#9b9b9b" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">ADVANCED</tspan></text>
+        <text id="FANCYBOX_CONFIGS" data-name="FANCYBOX CONFIGS" transform="translate(60 451)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">FANCYBOX CONFIGS</tspan></text>
+        <text id="SPACEBUNNY_STATUS" data-name="SPACEBUNNY STATUS" transform="translate(60 491)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SPACEBUNNY STATUS</tspan></text>
+        <text id="SHARED_FOLDERS" data-name="SHARED FOLDERS" transform="translate(60 531)" fill="#2e3a3c" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SHARED FOLDERS</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
