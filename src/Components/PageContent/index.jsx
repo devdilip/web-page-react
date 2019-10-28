@@ -79,13 +79,13 @@ export default class PageContent extends Component {
                     </div>
 
                     <div className="card m-1">
-                        <div className="card-body card_body1234">
-                            <h5 className="card-title">
-                                <span className="">Machine Template</span>
-                            </h5>
-                            <img alt={""} src=""></img>
-                        </div>
+                        <img className='img-fluid'
+                            style={{ height: "180px", idth: "fit-content" }}
+                            alt={"Loading img"}
+                            src={require(`../../../src/Assets/images/temp-diagram-images.png`)}>
+                        </img>
                     </div>
+                    
                     <div className="card m-1 event-cart " style={{ width: `${33}rem` }}>
                         <div className="card-body">
                             <div className="d-flex ">
