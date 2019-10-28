@@ -1,36 +1,9 @@
 import React, { Component } from "react";
 import './PageContent.css';
-
+import Card from '../Card';
 
 export default class PageContent extends Component {
-
-
     render() {
-
-        const card = (width, cardDetails) => (
-            <div className={`card m-1 card-style ${cardDetails.isActive ? "active-card" : null}`} style={{ width: `${width}rem` }}>
-                <div className="card-body">
-                    <h5 className="card-title d-flex justify-content-between align-items-center">
-                        <div>  <span className={`span_sty_123wq ${cardDetails.header === "100" ? " card-header-color" : "card-headers-title"}`}>{cardDetails.header}</span>{cardDetails.isPercentage ? '%' : null}</div>
-                        {cardDetails.isIcon ? <div><img alt={"loading"} className="mr-1" style={{ height: "40px" }} src={require(`../../../src/Assets/images/twotone-group-24px.svg`)} /></div> : null}
-                    </h5>
-                    <div className="card-text">
-                        <div>{cardDetails.type}</div>
-                        <div>{cardDetails.subType}</div>
-                    </div>
-                    <div className="progress  p_bar123">
-                        <div
-                            className={`progress-bar ${cardDetails.isActive ? "bg-white" : cardDetails.progressvalue == "100" ? "bg-success" : null} w-${cardDetails.progressvalue}`}
-                            role="progressbar"
-                            aria-valuenow={cardDetails.progressvalue}
-                            aria-valuemin="0"
-                            aria-valuemax="100"
-                        ></div>
-                    </div>
-                </div>
-            </div>
-        );
-
         const timeCard = () => (
             <div className="card m-1  card-style time-card-width">
                 <div className="card-body">
@@ -47,7 +20,6 @@ export default class PageContent extends Component {
                         </div>
                         <div className="border_style1 time-card-details"></div>
                         <div className="m-3">
-
                             <h5 className="card-title time-card-time">
                                 <div className='small-time-card'>
                                     <div className='d-flex justify-content-between time-card-small'>
@@ -64,18 +36,14 @@ export default class PageContent extends Component {
             </div>);
 
         return (
-            <div
-                className={`content-container ${
-                    this.props.buttonStatus ? "" : "content-container1"
-                    }`}
-            >
+            <div className={`content-container ${this.props.buttonStatus ? "" : "content-container1"}`} >
                 <div className="container-fluid">
                     <div className="d-flex card-body-style">
-                        {card(10, { header: "52", type: "MACHINE", subType: "WORK", progressvalue: 50, isIcon: false, isPercentage: true, isActive: true })}
-                        {card(10, { header: "16", type: "ACTIVE", subType: "OPERATORS", progressvalue: 25, isIcon: false, isPercentage: true, isActive: false })}
-                        {card(10, { header: "4", type: "PRODUCT", subType: "DISCHARGE", progressvalue: 25, isIcon: true, isPercentage: false, isActive: false })}
+                        <Card width={10} cardDetails={{ header: "52", type: "MACHINE", subType: "WORK", progressvalue: 50, isIcon: false, isPercentage: true, isActive: true }} />
+                        <Card width={10} cardDetails={{ header: "16", type: "ACTIVE", subType: "OPERATORS", progressvalue: 25, isIcon: false, isPercentage: true, isActive: false }} />
+                        <Card width={10} cardDetails={{ header: "4", type: "PRODUCT", subType: "DISCHARGE", progressvalue: 25, isIcon: true, isPercentage: false, isActive: false }} />
                         {timeCard()}
-                        {card(10, { header: "100", type: "HARDWARE", subType: "PROTYPING", progressvalue: 100, isIcon: false, isPercentage: true, isActive: false })}
+                        <Card width={10} cardDetails={{ header: "100", type: "HARDWARE", subType: "PROTYPING", progressvalue: 100, isIcon: false, isPercentage: true, isActive: false }} />
                     </div>
 
                     <div className="card m-1 temp-card">
@@ -85,7 +53,7 @@ export default class PageContent extends Component {
                             src={require(`../../../src/Assets/images/temp-diagram-images.png`)}>
                         </img>
                     </div>
-                    
+
                     <div className="card m-1 event-cart " style={{ width: `${33}rem` }}>
                         <div className="card-body">
                             <div className="d-flex ">
