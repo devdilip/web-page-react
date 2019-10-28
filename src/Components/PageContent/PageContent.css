@@ -1,5 +1,6 @@
 .event-cart {
     width: 30rem;
+    margin-top: 15px !important;
 }
 
 .time-cart-title{
@@ -29,6 +30,9 @@
 }
 .event-button > button{
     margin-right: 12px;
+}
+.temp-card{
+    height: 250px;
 }
 .custom-button{
     font-size: 10px;

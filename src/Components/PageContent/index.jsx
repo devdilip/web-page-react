@@ -78,9 +78,9 @@ export default class PageContent extends Component {
                         {card(10, { header: "100", type: "HARDWARE", subType: "PROTYPING", progressvalue: 100, isIcon: false, isPercentage: true, isActive: false })}
                     </div>
 
-                    <div className="card m-1">
+                    <div className="card m-1 temp-card">
                         <img className='img-fluid'
-                            style={{ height: "180px", idth: "fit-content" }}
+                            style={{ height: "250px", idth: "fit-content" }}
                             alt={"Loading img"}
                             src={require(`../../../src/Assets/images/temp-diagram-images.png`)}>
                         </img>
